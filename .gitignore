@@ -1,5 +1,6 @@
 .env
 .gradle
+.idea
 **/build/
 !src/**/build/
 
