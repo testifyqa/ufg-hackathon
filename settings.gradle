@@ -1,0 +1,6 @@
+rootProject.name = 'hackathon'
+include 'TraditionalTestsV1'
+include 'TraditionalTestsV2'
+include 'ModernTestsV1'
+include 'ModernTestsV2'
+
