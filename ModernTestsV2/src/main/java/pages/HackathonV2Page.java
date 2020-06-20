@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class GridHackathonV1Page {
+public class HackathonV2Page {
 
   private final WebDriver driver;
 
@@ -35,7 +35,7 @@ public class GridHackathonV1Page {
     return openFiltersLink;
   }
 
-  public GridHackathonV1Page(WebDriver driver) {
+  public HackathonV2Page(WebDriver driver) {
     this.driver = driver;
   }
 

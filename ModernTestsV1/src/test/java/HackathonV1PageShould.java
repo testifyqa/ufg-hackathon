@@ -3,13 +3,13 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
-import pages.GridHackathonV1Page;
+import pages.HackathonV1Page;
 
-public class GridHackathonV1Tests {
+public class HackathonV1PageShould {
 
   private WebDriver driver;
   private EyesManager eyesManager;
-  private GridHackathonV1Page hackathonV1Page;
+  private HackathonV1Page hackathonV1Page;
 
   @BeforeTest
   void setUp() {
@@ -17,23 +17,23 @@ public class GridHackathonV1Tests {
     driver = new ChromeDriver();
     eyesManager = new EyesManager(driver, "UFG Hackathon");
     eyesManager.setBatchName("UFG Hackathon");
-    hackathonV1Page = new GridHackathonV1Page(driver);
+    hackathonV1Page = new HackathonV1Page(driver);
     driver.get("https://demo.applitools.com/gridHackathonV1.html");
   }
 
   @Test
-  public void test_ElementsAcrossDevices_DisplayCorrectly() {
+  public void display_elements_across_devices_correctly() {
     eyesManager.validateWindow("Task 1", "Cross-Device Elements Test");
   }
 
   @Test
-  public void test_FilteringForBlackShoes_ReturnsBlackShoes() {
+  public void return_black_shoes_when_filtering_for_black_shoes() {
     hackathonV1Page.filterByColorBlack();
     eyesManager.validateRegion("Task 2", "Filter Results", hackathonV1Page.getProductGrid());
   }
 
   @Test
-  public void test_SelectingFirstBlackShoe_NavigatesToDetailsPage() {
+  public void navigate_to_correct_details_page_when_product_is_selected() {
     hackathonV1Page.clickFirstProduct();
     eyesManager.validateWindow("Task 3", "Product Details test");
   }
