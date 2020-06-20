@@ -10,5 +10,13 @@ repositories {
 }
 
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'com.applitools', name: 'eyes-selenium-java3', version: '3.164.0'
+    compile group: 'io.github.bonigarcia', name: 'webdrivermanager', version: '4.0.0'
+    compile group: 'io.github.cdimascio', name: 'java-dotenv', version: '5.2.1'
+    testCompile group: 'org.testng', name: 'testng', version: '7.1.0'
+    testCompile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.30'
+}
+
+test {
+    useTestNG()
 }
