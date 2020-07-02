@@ -5,10 +5,12 @@ import com.applitools.eyes.RectangleSize;
 import com.applitools.eyes.selenium.Eyes;
 import com.applitools.eyes.selenium.fluent.Target;
 import com.applitools.eyes.visualgrid.services.VisualGridRunner;
-import io.github.cdimascio.dotenv.Dotenv;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Properties;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import utils.VisualGridConfig;
 
 public class EyesManager {
@@ -22,9 +24,17 @@ public class EyesManager {
     this.driver = driver;
     this.appName = appName;
 
-    Dotenv dotenv = Dotenv.configure().directory("..").load();
+    InputStream inputStream;
+    Properties properties = new Properties();
+    try {
+      inputStream = new FileInputStream("config.properties");
+      properties.load(inputStream);
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+
     eyes = new Eyes(new VisualGridRunner(10));
-    eyes.setApiKey(dotenv.get("EYES_API_KEY"));
+    eyes.setApiKey(properties.getProperty("eyes.api.key"));
     eyes.setConfiguration(VisualGridConfig.getGrid());
   }
 

@@ -2,16 +2,14 @@ import base.EyesManager;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
-import pages.HackathonV2Page;
+import org.testng.annotations.*;
+import widgets.HackathonV1Page;
 
-public class HackathonV2PageShould {
+public class HackathonV1AppShould {
 
   private WebDriver driver;
   private EyesManager eyesManager;
-  private HackathonV2Page hackathonV2Page;
+  private HackathonV1Page hackathonV1Page;
 
   @BeforeTest
   void setUp() {
@@ -19,8 +17,8 @@ public class HackathonV2PageShould {
     driver = new ChromeDriver();
     eyesManager = new EyesManager(driver, "UFG Hackathon");
     eyesManager.setBatchName("UFG Hackathon");
-    hackathonV2Page = new HackathonV2Page(driver);
-    driver.get("https://demo.applitools.com/gridHackathonV2.html");
+    hackathonV1Page = new HackathonV1Page(driver);
+    driver.get("https://demo.applitools.com/gridHackathonV1.html");
   }
 
   @Test
@@ -30,13 +28,13 @@ public class HackathonV2PageShould {
 
   @Test
   public void return_black_shoes_when_filtering_for_black_shoes() {
-    hackathonV2Page.filterByColorBlack();
-    eyesManager.validateRegion("Task 2", "Filter Results", hackathonV2Page.getProductGrid());
+    hackathonV1Page.filterByColorBlack();
+    eyesManager.validateRegion("Task 2", "Filter Results", hackathonV1Page.getProductGrid());
   }
 
   @Test
   public void navigate_to_correct_details_page_when_product_is_selected() {
-    hackathonV2Page.clickFirstProduct();
+    hackathonV1Page.clickFirstProduct();
     eyesManager.validateWindow("Task 3", "Product Details test");
   }
 

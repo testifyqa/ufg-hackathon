@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="tests" thread-count="7">
+    <test name="ChromeLaptopTest">
+        <parameter name="browser" value="chrome" />
+        <parameter name="width" value="1200" />
+        <parameter name="height" value="700" />
+        <parameter name="device" value="Laptop" />
+        <classes>
+            <class name="HackathonV1Should" />
+        </classes>
+    </test>
+    <test name="FirefoxLaptopTest">
+        <parameter name="browser" value="firefox" />
+        <parameter name="width" value="1200" />
+        <parameter name="height" value="700" />
+        <parameter name="device" value="Laptop" />
+        <classes>
+            <class name="HackathonV1Should" />
+        </classes>
+    </test>
+<!--    <test name="EdgeLaptopTest">-->
+<!--        <parameter name="browser" value="edge" />-->
+<!--        <parameter name="width" value="1200" />-->
+<!--        <parameter name="height" value="700" />-->
+<!--        <parameter name="device" value="Laptop" />-->
+<!--        <classes>-->
+<!--            <class name="HackathonV1Should" />-->
+<!--        </classes>-->
+<!--    </test>-->
+    <test name="ChromeTabletTest">
+        <parameter name="browser" value="chrome" />
+        <parameter name="width" value="768" />
+        <parameter name="height" value="700" />
+        <parameter name="device" value="Tablet" />
+        <classes>
+            <class name="HackathonV1Should" />
+        </classes>
+    </test>
+    <test name="FirefoxTabletTest">
+        <parameter name="browser" value="firefox" />
+        <parameter name="width" value="768" />
+        <parameter name="height" value="700" />
+        <parameter name="device" value="Tablet" />
+        <classes>
+            <class name="HackathonV1Should" />
+        </classes>
+    </test>
+<!--    <test name="EdgeTabletTest">-->
+<!--        <parameter name="browser" value="edge" />-->
+<!--        <parameter name="width" value="768" />-->
+<!--        <parameter name="height" value="700" />-->
+<!--        <parameter name="device" value="Tablet" />-->
+<!--        <classes>-->
+<!--            <class name="HackathonV1Should" />-->
+<!--        </classes>-->
+<!--    </test>-->
+    <test name="ChromeMobileTest">
+        <parameter name="browser" value="chrome" />
+        <parameter name="width" value="500" />
+        <parameter name="height" value="700" />
+        <parameter name="device" value="Mobile" />
+        <classes>
+            <class name="HackathonV1Should" />
+        </classes>
+    </test>
+</suite>
