@@ -7,7 +7,7 @@
         <parameter name="height" value="700" />
         <parameter name="device" value="Laptop" />
         <classes>
-            <class name="HackathonV1Should" />
+            <class name="hackathonv1.Task1Should" />
         </classes>
     </test>
     <test name="FirefoxLaptopTest">
@@ -16,25 +16,25 @@
         <parameter name="height" value="700" />
         <parameter name="device" value="Laptop" />
         <classes>
-            <class name="HackathonV1Should" />
+            <class name="hackathonv1.Task1Should" />
         </classes>
     </test>
-<!--    <test name="EdgeLaptopTest">-->
-<!--        <parameter name="browser" value="edge" />-->
-<!--        <parameter name="width" value="1200" />-->
-<!--        <parameter name="height" value="700" />-->
-<!--        <parameter name="device" value="Laptop" />-->
-<!--        <classes>-->
-<!--            <class name="HackathonV1Should" />-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="EdgeLaptopTest">
+        <parameter name="browser" value="edge" />
+        <parameter name="width" value="1200" />
+        <parameter name="height" value="700" />
+        <parameter name="device" value="Laptop" />
+        <classes>
+            <class name="hackathonv1.Task1Should" />
+        </classes>
+    </test>
     <test name="ChromeTabletTest">
         <parameter name="browser" value="chrome" />
         <parameter name="width" value="768" />
         <parameter name="height" value="700" />
         <parameter name="device" value="Tablet" />
         <classes>
-            <class name="HackathonV1Should" />
+            <class name="hackathonv1.Task1Should" />
         </classes>
     </test>
     <test name="FirefoxTabletTest">
@@ -43,25 +43,25 @@
         <parameter name="height" value="700" />
         <parameter name="device" value="Tablet" />
         <classes>
-            <class name="HackathonV1Should" />
+            <class name="hackathonv1.Task1Should" />
         </classes>
     </test>
-<!--    <test name="EdgeTabletTest">-->
-<!--        <parameter name="browser" value="edge" />-->
-<!--        <parameter name="width" value="768" />-->
-<!--        <parameter name="height" value="700" />-->
-<!--        <parameter name="device" value="Tablet" />-->
-<!--        <classes>-->
-<!--            <class name="HackathonV1Should" />-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="EdgeTabletTest">
+        <parameter name="browser" value="edge" />
+        <parameter name="width" value="768" />
+        <parameter name="height" value="700" />
+        <parameter name="device" value="Tablet" />
+        <classes>
+            <class name="hackathonv1.Task1Should" />
+        </classes>
+    </test>
     <test name="ChromeMobileTest">
         <parameter name="browser" value="chrome" />
         <parameter name="width" value="500" />
         <parameter name="height" value="700" />
         <parameter name="device" value="Mobile" />
         <classes>
-            <class name="HackathonV1Should" />
+            <class name="hackathonv1.Task1Should" />
         </classes>
     </test>
 </suite>

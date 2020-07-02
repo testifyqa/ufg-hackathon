@@ -6,6 +6,7 @@ import io.github.bonigarcia.wdm.config.DriverManagerType;
 import java.lang.reflect.InvocationTargetException;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
