@@ -10,6 +10,7 @@ public class Header {
   public String getAppliFashionLogo() {
     return "IMG____9";
   }
+
   private final String homeNavLink = "A__showsubmen__23";
   private final String menNavLink = "A__showsubmen__25";
   private final String womenNavLink = "A__showsubmen__27";

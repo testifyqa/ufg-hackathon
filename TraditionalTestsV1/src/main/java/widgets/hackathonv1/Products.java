@@ -94,6 +94,66 @@ public class Products {
   private final String product9AddToCompareIcon = "I__ticontrols__411";
   private final String product9AddToCartIcon = "I__tishopping__415";
 
+  public String getProduct1Link() {
+    return product1Link;
+  }
+
+  public String getProduct1Image() {
+    return product1Image;
+  }
+
+  public String getProduct1Name() {
+    return product1Name;
+  }
+
+  public String getProduct1NewPrice() {
+    return product1NewPrice;
+  }
+
+  public String getProduct1OldPrice() {
+    return product1OldPrice;
+  }
+
+  public String getProduct1AddToFavoritesIcon() {
+    return product1AddToFavoritesIcon;
+  }
+
+  public String getProduct1AddToCompareIcon() {
+    return product1AddToCompareIcon;
+  }
+
+  public String getProduct1AddToCartIcon() {
+    return product1AddToCartIcon;
+  }
+
+  public String getProduct8Link() {
+    return product8Link;
+  }
+
+  public String getProduct8Image() {
+    return product8Image;
+  }
+
+  public String getProduct8Name() {
+    return product8Name;
+  }
+
+  public String getProduct8NewPrice() {
+    return product8NewPrice;
+  }
+
+  public String getProduct8AddToFavoritesIcon() {
+    return product8AddToFavoritesIcon;
+  }
+
+  public String getProduct8AddToCompareIcon() {
+    return product8AddToCompareIcon;
+  }
+
+  public String getProduct8AddToCartIcon() {
+    return product8AddToCartIcon;
+  }
+
   public HashMap<String, String> getAllProductElements() {
     HashMap<String, String> productElements = new HashMap<>();
     for (Field field : getClass().getDeclaredFields()) {

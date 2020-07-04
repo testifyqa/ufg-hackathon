@@ -9,7 +9,7 @@ public class Filters {
 
   // filter sidebar
   private final String filtersSidebar = "sidebar_filters";
-  private final String openFiltersSidebar = "A__openfilter__206";
+  public final String openFiltersSidebar = "A__openfilter__206";
 
   // type filters
   private final String typeFilterSection = "A__opened__75";
@@ -20,7 +20,7 @@ public class Filters {
 
   // color filters
   private final String colorFilterSection = "A__opened__100";
-  private final String colorBlackCheckbox = "colors__Black";
+  public final String colorBlackCheckbox = "colors__Black";
   private final String colorWhiteCheckbox = "colors__White";
   private final String colorBlueCheckbox = "colors__Blue";
   private final String colorGreenCheckbox = "colors__Green";
@@ -42,7 +42,7 @@ public class Filters {
   private final String price150to500Checkbox = "price__$150-$500";
 
   // filter buttons
-  private final String filterButton = "filterBtn";
+  public final String filterButton = "filterBtn";
   private final String resetButton = "resetBtn";
 
   public HashMap<String, String> getAllFilters() {

@@ -21,6 +21,14 @@ dependencies {
     testCompile group: 'org.testng', name: 'testng', version: '7.1.0'
 }
 
+def suite = project.hasProperty("suite")
+
 test {
-    useTestNG()
+    useTestNG {
+        dependsOn cleanTest
+        useDefaultListeners = true
+        if(suite) {
+            suites "src/test/resources/testng.xml"
+        }
+    }
 }
