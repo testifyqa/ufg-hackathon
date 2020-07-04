@@ -1,32 +1,39 @@
 package hackathonv1;
 
+import com.google.gson.JsonElement;
 import java.util.Map;
+import java.util.Set;
 import org.assertj.core.api.SoftAssertions;
 import org.openqa.selenium.By;
 import org.testng.annotations.*;
-import utils.HackathonReporter;
-import widgets.hackathonv1.*;
+import traditionalv1.utils.HackathonReporter;
 
 public class Task1Should extends TestBase {
 
   @Parameters({"browser", "width", "height", "device"})
   @Test()
   public void display_filters_across_devices_correctly(
-      String browser, int width, int height, String device) {
-    Filters filters = new Filters();
+      @Optional("chrome") String browser,
+      @Optional("1200") int width,
+      @Optional("700") int height,
+      @Optional("Laptop") String device) {
     SoftAssertions softAssertions = new SoftAssertions();
     hackathonReporter = new HackathonReporter();
-    for (Map.Entry<String, String> filterElement : filters.getAllFilters().entrySet()) {
+    Set<Map.Entry<String, JsonElement>> filterElements =
+        hackathonV1Page.parseJson("src/main/resources/data/filter_dom_ids.json").entrySet();
+    for (Map.Entry<String, JsonElement> filterElement : filterElements) {
       softAssertions.assertThat(
           hackathonReporter.checkDomIds(
               1,
               filterElement.getKey() + " is displayed",
-              filterElement.getValue(),
+              filterElement.getValue().getAsString(),
               browser,
               width,
               height,
               device,
-              driver.findElement(By.id(filterElement.getValue())).isDisplayed()));
+              driver
+                  .findElement(By.id(String.valueOf(filterElement.getValue().getAsString())))
+                  .isDisplayed()));
     }
     softAssertions.assertAll();
   }
@@ -34,21 +41,27 @@ public class Task1Should extends TestBase {
   @Parameters({"browser", "width", "height", "device"})
   @Test()
   public void display_footer_across_devices_correctly(
-      String browser, int width, int height, String device) {
-    Footer footer = new Footer();
+      @Optional("chrome") String browser,
+      @Optional("1200") int width,
+      @Optional("700") int height,
+      @Optional("Laptop") String device) {
     SoftAssertions softAssertions = new SoftAssertions();
     hackathonReporter = new HackathonReporter();
-    for (Map.Entry<String, String> footerElement : footer.getAllFooterElements().entrySet()) {
+    Set<Map.Entry<String, JsonElement>> footerElements =
+        hackathonV1Page.parseJson("src/main/resources/data/footer_dom_ids.json").entrySet();
+    for (Map.Entry<String, JsonElement> footerElement : footerElements) {
       softAssertions.assertThat(
           hackathonReporter.checkDomIds(
               1,
               footerElement.getKey() + " is displayed",
-              footerElement.getValue(),
+              footerElement.getValue().getAsString(),
               browser,
               width,
               height,
               device,
-              driver.findElement(By.id(footerElement.getValue())).isDisplayed()));
+              driver
+                  .findElement(By.id(String.valueOf(footerElement.getValue().getAsString())))
+                  .isDisplayed()));
     }
     softAssertions.assertAll();
   }
@@ -56,21 +69,27 @@ public class Task1Should extends TestBase {
   @Parameters({"browser", "width", "height", "device"})
   @Test()
   public void display_header_items_across_devices_correctly(
-      String browser, int width, int height, String device) {
-    Header header = new Header();
+      @Optional("chrome") String browser,
+      @Optional("1200") int width,
+      @Optional("700") int height,
+      @Optional("Laptop") String device) {
     SoftAssertions softAssertions = new SoftAssertions();
     hackathonReporter = new HackathonReporter();
-    for (Map.Entry<String, String> navigationLink : header.getAllNavigationLinks().entrySet()) {
+    Set<Map.Entry<String, JsonElement>> headerElements =
+        hackathonV1Page.parseJson("src/main/resources/data/header_dom_ids.json").entrySet();
+    for (Map.Entry<String, JsonElement> headerElement : headerElements) {
       softAssertions.assertThat(
           hackathonReporter.checkDomIds(
               1,
-              navigationLink.getKey() + " is displayed",
-              navigationLink.getValue(),
+              headerElement.getKey() + " is displayed",
+              headerElement.getValue().getAsString(),
               browser,
               width,
               height,
               device,
-              driver.findElement(By.id(navigationLink.getValue())).isDisplayed()));
+              driver
+                  .findElement(By.id(String.valueOf(headerElement.getValue().getAsString())))
+                  .isDisplayed()));
     }
     softAssertions.assertAll();
   }
@@ -78,21 +97,27 @@ public class Task1Should extends TestBase {
   @Parameters({"browser", "width", "height", "device"})
   @Test()
   public void display_products_across_devices_correctly(
-      String browser, int width, int height, String device) {
-    Products products = new Products();
+      @Optional("chrome") String browser,
+      @Optional("1200") int width,
+      @Optional("700") int height,
+      @Optional("Laptop") String device) {
     SoftAssertions softAssertions = new SoftAssertions();
     hackathonReporter = new HackathonReporter();
-    for (Map.Entry<String, String> product : products.getAllProductElements().entrySet()) {
+    Set<Map.Entry<String, JsonElement>> productElements =
+        hackathonV1Page.parseJson("src/main/resources/data/product_dom_ids.json").entrySet();
+    for (Map.Entry<String, JsonElement> productElement : productElements) {
       softAssertions.assertThat(
           hackathonReporter.checkDomIds(
               1,
-              product.getKey() + " is displayed",
-              product.getValue(),
+              productElement.getKey() + " is displayed",
+              productElement.getValue().getAsString(),
               browser,
               width,
               height,
               device,
-              driver.findElement(By.id(product.getValue())).isDisplayed()));
+              driver
+                  .findElement(By.id(String.valueOf(productElement.getValue().getAsString())))
+                  .isDisplayed()));
     }
     softAssertions.assertAll();
   }
@@ -100,43 +125,27 @@ public class Task1Should extends TestBase {
   @Parameters({"browser", "width", "height", "device"})
   @Test()
   public void display_search_across_devices_correctly(
-      String browser, int width, int height, String device) {
-    Search search = new Search();
+      @Optional("chrome") String browser,
+      @Optional("1200") int width,
+      @Optional("700") int height,
+      @Optional("Laptop") String device) {
     SoftAssertions softAssertions = new SoftAssertions();
     hackathonReporter = new HackathonReporter();
-    for (Map.Entry<String, String> searchElement : search.getAllSearchElements().entrySet()) {
+    Set<Map.Entry<String, JsonElement>> searchElements =
+        hackathonV1Page.parseJson("src/main/resources/data/search_dom_ids.json").entrySet();
+    for (Map.Entry<String, JsonElement> searchElement : searchElements) {
       softAssertions.assertThat(
           hackathonReporter.checkDomIds(
               1,
               searchElement.getKey() + " is displayed",
-              searchElement.getValue(),
+              searchElement.getValue().getAsString(),
               browser,
               width,
               height,
               device,
-              driver.findElement(By.id(searchElement.getValue())).isDisplayed()));
-    }
-    softAssertions.assertAll();
-  }
-
-  @Parameters({"browser", "width", "height", "device"})
-  @Test
-  public void display_user_icons_across_devices_correctly(
-      String browser, int width, int height, String device) {
-    User user = new User();
-    SoftAssertions softAssertions = new SoftAssertions();
-    hackathonReporter = new HackathonReporter();
-    for (Map.Entry<String, String> userIcon : user.getAllUserIcons().entrySet()) {
-      softAssertions.assertThat(
-          hackathonReporter.checkDomIds(
-              1,
-              userIcon.getKey() + " is displayed",
-              userIcon.getValue(),
-              browser,
-              width,
-              height,
-              device,
-              driver.findElement(By.id(userIcon.getValue())).isDisplayed()));
+              driver
+                  .findElement(By.id(String.valueOf(searchElement.getValue().getAsString())))
+                  .isDisplayed()));
     }
     softAssertions.assertAll();
   }

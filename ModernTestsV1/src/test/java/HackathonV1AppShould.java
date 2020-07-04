@@ -3,7 +3,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
-import widgets.HackathonV1Page;
+import traditionalv1.pages.HackathonV1Page;
 
 public class HackathonV1AppShould {
 

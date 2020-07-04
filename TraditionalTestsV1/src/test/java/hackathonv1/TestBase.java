@@ -1,6 +1,6 @@
 package hackathonv1;
 
-import drivers.DriverFactory;
+import traditionalv1.drivers.DriverFactory;
 import java.io.IOException;
 import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
@@ -9,8 +9,8 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
-import pages.HackathonV1Page;
-import utils.HackathonReporter;
+import traditionalv1.pages.HackathonV1Page;
+import traditionalv1.utils.HackathonReporter;
 
 public class TestBase {
 

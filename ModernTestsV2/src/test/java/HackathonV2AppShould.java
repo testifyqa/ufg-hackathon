@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import widgets.HackathonV2Page;
+import traditionalv1.pages.HackathonV2Page;
 
 public class HackathonV2AppShould {
 

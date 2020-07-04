@@ -11,7 +11,7 @@ import java.io.InputStream;
 import java.util.Properties;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import utils.VisualGridConfig;
+import traditionalv1.utils.VisualGridConfig;
 
 public class EyesManager {
 
