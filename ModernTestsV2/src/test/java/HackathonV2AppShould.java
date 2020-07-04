@@ -1,11 +1,11 @@
 import base.EyesManager;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import moderntestsv2.pages.HackathonV2Page;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import traditionalv1.pages.HackathonV2Page;
 
 public class HackathonV2AppShould {
 

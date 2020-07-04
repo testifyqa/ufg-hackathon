@@ -1,4 +1,4 @@
-package traditionalv1.pages;
+package moderntestsv1.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

@@ -1,6 +1,5 @@
 package hackathonv1;
 
-import traditionalv1.drivers.DriverFactory;
 import java.io.IOException;
 import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
@@ -9,6 +8,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
+import traditionalv1.drivers.DriverFactory;
 import traditionalv1.pages.HackathonV1Page;
 import traditionalv1.utils.HackathonReporter;
 
@@ -19,6 +19,20 @@ public class TestBase {
   WebDriver driver;
   HackathonReporter hackathonReporter;
   HackathonV1Page hackathonV1Page;
+
+  public WebDriver getDriver() {
+    return driver;
+  }
+
+  public HackathonReporter getHackathonReporter() {
+    hackathonReporter = new HackathonReporter();
+    return hackathonReporter;
+  }
+
+  public HackathonV1Page getHackathonV1Page() {
+    hackathonV1Page = new HackathonV1Page(driver);
+    return hackathonV1Page;
+  }
 
   @Parameters({"browser", "width", "height"})
   @BeforeTest

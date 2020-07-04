@@ -18,28 +18,27 @@ public class HackathonV1Page {
 
   private final WebDriver driver;
   private final JsonObject blackFilteredProducts;
-  private final JsonObject filters;
 
   private static final Logger log = LoggerFactory.getLogger(HackathonV1Page.class.getName());
 
   public HackathonV1Page(WebDriver driver) {
     this.driver = driver;
-    blackFilteredProducts =
-        parseJson(System.getProperty("user.dir") + "/src/main/resources/data/black_filtered_products_dom_ids.json");
-    filters = parseJson(System.getProperty("user.dir") + "/src/main/resources/data/filter_dom_ids.json");
+    blackFilteredProducts = parseJson("src/main/resources/data/black_products_dom_ids.json");
   }
 
   public JsonObject parseJson(String jsonFilePath) {
     Gson gson = new Gson();
     try {
-      return gson.fromJson(new FileReader(jsonFilePath), JsonObject.class);
+      return gson.fromJson(
+          new FileReader(jsonFilePath), JsonObject.class);
     } catch (FileNotFoundException e) {
       log.error(" :: File '" + jsonFilePath + "' not found -> " + e.getMessage());
       return null;
     }
   }
 
-  public void filterByColorBlack() {
+  public void filterForBlackProducts() {
+    JsonObject filters = parseJson(System.getProperty("user.dir") +"/src/main/resources/data/filters_dom_ids.json");
     String blackColourFilter = filters.get("colorBlackCheckmark").getAsString();
     if (!driver.findElement(By.id(blackColourFilter)).isDisplayed()) {
       clickElement(filters.get("openFiltersSidebar").getAsString());

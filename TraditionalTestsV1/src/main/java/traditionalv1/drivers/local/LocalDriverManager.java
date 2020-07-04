@@ -1,6 +1,5 @@
 package traditionalv1.drivers.local;
 
-import traditionalv1.drivers.DriverManager;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.github.bonigarcia.wdm.config.DriverManagerType;
 import java.lang.reflect.InvocationTargetException;
@@ -8,6 +7,7 @@ import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import traditionalv1.drivers.DriverManager;
 
 public class LocalDriverManager implements DriverManager {
 
