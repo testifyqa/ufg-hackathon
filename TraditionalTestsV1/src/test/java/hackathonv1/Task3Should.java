@@ -57,4 +57,9 @@ public class Task3Should {
   public void afterClass() {
     testBase.tearDown();
   }
+
+  @AfterSuite
+  public void afterSuite() {
+    testBase.getHackathonReporter().sortAlphabetically();
+  }
 }
