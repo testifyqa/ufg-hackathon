@@ -29,8 +29,7 @@ public class HackathonV1Page {
   public JsonObject parseJson(String jsonFilePath) {
     Gson gson = new Gson();
     try {
-      return gson.fromJson(
-          new FileReader(jsonFilePath), JsonObject.class);
+      return gson.fromJson(new FileReader(jsonFilePath), JsonObject.class);
     } catch (FileNotFoundException e) {
       log.error(" :: File '" + jsonFilePath + "' not found -> " + e.getMessage());
       return null;
@@ -38,7 +37,8 @@ public class HackathonV1Page {
   }
 
   public void filterForBlackProducts() {
-    JsonObject filters = parseJson(System.getProperty("user.dir") +"/src/main/resources/data/filters_dom_ids.json");
+    JsonObject filters =
+        parseJson(System.getProperty("user.dir") + "/src/main/resources/data/filters_dom_ids.json");
     String blackColourFilter = filters.get("colorBlackCheckmark").getAsString();
     if (!driver.findElement(By.id(blackColourFilter)).isDisplayed()) {
       clickElement(filters.get("openFiltersSidebar").getAsString());
@@ -79,5 +79,11 @@ public class HackathonV1Page {
     listedBlackProductDomIds.add(
         blackFilteredProducts.get("blackProduct2AddToCartIcon").getAsString());
     return listedBlackProductDomIds;
+  }
+
+  public void clickFirstProduct() {
+    JsonObject products =
+        parseJson(System.getProperty("user.dir") + "/src/main/resources/data/product_dom_ids.json");
+    clickElement(products.get("product1Link").getAsString());
   }
 }

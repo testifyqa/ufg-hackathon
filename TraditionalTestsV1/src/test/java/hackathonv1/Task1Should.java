@@ -35,18 +35,20 @@ public class Task1Should {
             .entrySet();
     for (Map.Entry<String, JsonElement> filterElement : filterElements) {
       softAssertions.assertThat(
-          testBase.getHackathonReporter().checkDomIds(
-              1,
-              filterElement.getKey() + " is displayed",
-              filterElement.getValue().getAsString(),
-              browser,
-              width,
-              height,
-              device,
-              testBase
-                  .getDriver()
-                  .findElement(By.id(String.valueOf(filterElement.getValue().getAsString())))
-                  .isDisplayed()));
+          testBase
+              .getHackathonReporter()
+              .checkDomIds(
+                  1,
+                  filterElement.getKey() + " is displayed",
+                  filterElement.getValue().getAsString(),
+                  browser,
+                  width,
+                  height,
+                  device,
+                  testBase
+                      .getDriver()
+                      .findElement(By.id(String.valueOf(filterElement.getValue().getAsString())))
+                      .isDisplayed()));
     }
     softAssertions.assertAll();
   }
@@ -66,18 +68,20 @@ public class Task1Should {
             .entrySet();
     for (Map.Entry<String, JsonElement> footerElement : footerElements) {
       softAssertions.assertThat(
-          testBase.getHackathonReporter().checkDomIds(
-              1,
-              footerElement.getKey() + " is displayed",
-              footerElement.getValue().getAsString(),
-              browser,
-              width,
-              height,
-              device,
-              testBase
-                  .getDriver()
-                  .findElement(By.id(String.valueOf(footerElement.getValue().getAsString())))
-                  .isDisplayed()));
+          testBase
+              .getHackathonReporter()
+              .checkDomIds(
+                  1,
+                  footerElement.getKey() + " is displayed",
+                  footerElement.getValue().getAsString(),
+                  browser,
+                  width,
+                  height,
+                  device,
+                  testBase
+                      .getDriver()
+                      .findElement(By.id(String.valueOf(footerElement.getValue().getAsString())))
+                      .isDisplayed()));
     }
     softAssertions.assertAll();
   }

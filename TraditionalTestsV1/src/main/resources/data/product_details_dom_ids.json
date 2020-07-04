@@ -1,0 +1,21 @@
+{
+  "shoeName" : "shoe_name",
+  "shoeImage" : "shoe_img",
+  "rating" : "SPAN__rating__76",
+  "ratingStar1" : "I__iconstarvo__77",
+  "ratingStar2" : "I__iconstarvo__78",
+  "ratingStar3" : "I__iconstarvo__79",
+  "ratingStar4" : "I__iconstarvo__80",
+  "ratingStar5" : "I__iconstar__81",
+  "numberOfReviews" : "EM____82",
+  "sku" : "SMALL____84",
+  "productDescription" : "BR____85",
+  "sizeLabel" : "STRONG____90",
+  "sizeSelect" : "SELECTselect-one__wide__93",
+  "quantityLabel" : "STRONG____100",
+  "quantityField" : "DIV__numbersrow__102",
+  "newPrice" : "new_price",
+  "oldPrice" : "old_price",
+  "discount" : "discount",
+  "addToCartButton": "A__btn__114"
+}
