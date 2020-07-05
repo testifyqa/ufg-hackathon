@@ -4,7 +4,7 @@
 This is my attempt at completing the Applitools Ultra Fast Grid Hackathon.
 I have attempted to complete both the modern version utilising Applitools Ultra Fast Grid, 
 as well the longer and far more difficult traditional approach, 
-which utilise TestNG to run the test across different browsers in parallel,
+which utilises TestNG to run the tests across different browsers in parallel,
  as well as using the hackathonReporter() function provided by Applitools to help print out reports of all the elements.
  
  [Official Hackathon instructions can be found here](https://applitools.com/cross-browser-testing-hackathon-v20-1-instructions)
