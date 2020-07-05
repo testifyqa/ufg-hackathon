@@ -1,4 +1,4 @@
-package hackathonv1;
+package hackathonv2;
 
 import org.assertj.core.api.SoftAssertions;
 import org.openqa.selenium.By;
@@ -25,12 +25,12 @@ public class Task2Should {
       @Optional("700") int height,
       @Optional("Laptop") String device) {
     SoftAssertions softAssertions = new SoftAssertions();
-    testBase.getHackathonV1Page().filterForBlackProducts();
+    testBase.getHackathonV2Page().filterForBlackProducts();
     softAssertions
-        .assertThat(testBase.getHackathonV1Page().getListedProducts().size())
+        .assertThat(testBase.getHackathonV2Page().getListedProducts().size())
         .isEqualTo(2);
     for (String listedBlackProductElement :
-        testBase.getHackathonV1Page().getListedBlackProductDomIds()) {
+        testBase.getHackathonV2Page().getListedBlackProductDomIds()) {
       softAssertions.assertThat(
           testBase
               .getHackathonReporter()

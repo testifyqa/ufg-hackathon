@@ -1,11 +1,12 @@
-package hackathonv1;
+package hackathonv2;
 
 import com.google.gson.JsonElement;
-import java.util.Map;
-import java.util.Set;
 import org.assertj.core.api.SoftAssertions;
 import org.openqa.selenium.By;
 import org.testng.annotations.*;
+
+import java.util.Map;
+import java.util.Set;
 
 public class Task1Should {
 
@@ -30,7 +31,7 @@ public class Task1Should {
     SoftAssertions softAssertions = new SoftAssertions();
     Set<Map.Entry<String, JsonElement>> filterElements =
         testBase
-            .getHackathonV1Page()
+            .getHackathonV2Page()
             .parseJson("src/main/resources/data/filters_dom_ids.json")
             .entrySet();
     for (Map.Entry<String, JsonElement> filterElement : filterElements) {
@@ -63,7 +64,7 @@ public class Task1Should {
     SoftAssertions softAssertions = new SoftAssertions();
     Set<Map.Entry<String, JsonElement>> footerElements =
         testBase
-            .getHackathonV1Page()
+            .getHackathonV2Page()
             .parseJson("src/main/resources/data/footer_dom_ids.json")
             .entrySet();
     for (Map.Entry<String, JsonElement> footerElement : footerElements) {
@@ -96,7 +97,7 @@ public class Task1Should {
     SoftAssertions softAssertions = new SoftAssertions();
     Set<Map.Entry<String, JsonElement>> headerElements =
         testBase
-            .getHackathonV1Page()
+            .getHackathonV2Page()
             .parseJson("src/main/resources/data/header_dom_ids.json")
             .entrySet();
     for (Map.Entry<String, JsonElement> headerElement : headerElements) {
@@ -129,7 +130,7 @@ public class Task1Should {
     SoftAssertions softAssertions = new SoftAssertions();
     Set<Map.Entry<String, JsonElement>> productElements =
         testBase
-            .getHackathonV1Page()
+            .getHackathonV2Page()
             .parseJson("src/main/resources/data/product_dom_ids.json")
             .entrySet();
     for (Map.Entry<String, JsonElement> productElement : productElements) {
@@ -162,7 +163,7 @@ public class Task1Should {
     SoftAssertions softAssertions = new SoftAssertions();
     Set<Map.Entry<String, JsonElement>> searchElements =
         testBase
-            .getHackathonV1Page()
+            .getHackathonV2Page()
             .parseJson("src/main/resources/data/search_dom_ids.json")
             .entrySet();
     for (Map.Entry<String, JsonElement> searchElement : searchElements) {

@@ -1,11 +1,12 @@
-package hackathonv1;
+package hackathonv2;
 
 import com.google.gson.JsonElement;
-import java.util.Map;
-import java.util.Set;
 import org.assertj.core.api.SoftAssertions;
 import org.openqa.selenium.By;
 import org.testng.annotations.*;
+
+import java.util.Map;
+import java.util.Set;
 
 public class Task3Should {
 
@@ -27,10 +28,10 @@ public class Task3Should {
       @Optional("700") int height,
       @Optional("Laptop") String device) {
     SoftAssertions softAssertions = new SoftAssertions();
-    testBase.getHackathonV1Page().clickFirstProduct();
+    testBase.getHackathonV2Page().clickFirstProduct();
     Set<Map.Entry<String, JsonElement>> headerElements =
         testBase
-            .getHackathonV1Page()
+            .getHackathonV2Page()
             .parseJson("src/main/resources/data/header_dom_ids.json")
             .entrySet();
     for (Map.Entry<String, JsonElement> headerElement : headerElements) {
@@ -52,7 +53,7 @@ public class Task3Should {
     }
     Set<Map.Entry<String, JsonElement>> productDetailsElements =
         testBase
-            .getHackathonV1Page()
+            .getHackathonV2Page()
             .parseJson("src/main/resources/data/product_details_dom_ids.json")
             .entrySet();
     for (Map.Entry<String, JsonElement> productDetailsElement : productDetailsElements) {

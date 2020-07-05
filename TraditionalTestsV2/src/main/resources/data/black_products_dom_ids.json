@@ -1,0 +1,15 @@
+{
+  "blackProduct1ImageLink" : "product_1",
+  "blackProduct1Name" : "A____218",
+  "blackProduct1NewPrice" : "SPAN__newprice__221",
+  "blackProduct1OldPrice" : "SPAN__oldprice__222",
+  "blackProduct1AddToFavoritesIcon" : "I__tiheart__226",
+  "blackProduct1AddToCompareIcon" : "I__ticontrols__230",
+  "blackProduct1AddToCartIcon" : "I__tishopping__234",
+  "blackProduct2ImageLink" :  "product_2",
+  "blackProduct2Name" : "A____241",
+  "blackProduct2Price" : "SPAN__newprice__244",
+  "blackProduct2AddToFavoritesIcon" : "I__tiheart__248",
+  "blackProduct2AddToCompareIcon" : "I__ticontrols__252",
+  "blackProduct2AddToCartIcon" : "I__tishopping__256"
+}
