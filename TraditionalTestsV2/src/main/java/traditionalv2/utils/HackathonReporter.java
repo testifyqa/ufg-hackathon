@@ -1,12 +1,12 @@
 package traditionalv2.utils;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class HackathonReporter {
 
@@ -22,7 +22,7 @@ public class HackathonReporter {
       String device,
       boolean comparisonResult) {
     try (var writer =
-        new BufferedWriter(new FileWriter("Traditional-V1-TestResults_UNSORTED.txt", true))) {
+        new BufferedWriter(new FileWriter("Traditional-V2-TestResults_UNSORTED.txt", true))) {
       writer.write(
           "Task: "
               + task

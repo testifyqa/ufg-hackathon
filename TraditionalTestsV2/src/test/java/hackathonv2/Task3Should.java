@@ -1,12 +1,11 @@
 package hackathonv2;
 
 import com.google.gson.JsonElement;
+import java.util.Map;
+import java.util.Set;
 import org.assertj.core.api.SoftAssertions;
 import org.openqa.selenium.By;
 import org.testng.annotations.*;
-
-import java.util.Map;
-import java.util.Set;
 
 public class Task3Should {
 

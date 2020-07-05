@@ -27,7 +27,9 @@ public class EyesManager {
     InputStream inputStream;
     Properties properties = new Properties();
     try {
-      inputStream = new FileInputStream(System.getProperty("user.dir") + "/src/test/resources/config.properties");
+      inputStream =
+          new FileInputStream(
+              System.getProperty("user.dir") + "/src/test/resources/config.properties.sample");
       properties.load(inputStream);
     } catch (IOException e) {
       e.printStackTrace();

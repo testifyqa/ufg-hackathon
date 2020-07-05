@@ -1,8 +1,7 @@
 package traditionalv2.drivers;
 
-import org.openqa.selenium.WebDriver;
-
 import java.io.IOException;
+import org.openqa.selenium.WebDriver;
 
 public interface DriverManager {
 

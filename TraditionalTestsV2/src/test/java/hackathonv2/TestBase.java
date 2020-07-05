@@ -1,5 +1,6 @@
 package hackathonv2;
 
+import java.io.IOException;
 import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,8 +8,6 @@ import org.testng.annotations.Optional;
 import traditionalv2.drivers.DriverFactory;
 import traditionalv2.pages.HackathonV2Page;
 import traditionalv2.utils.HackathonReporter;
-
-import java.io.IOException;
 
 public class TestBase {
 
