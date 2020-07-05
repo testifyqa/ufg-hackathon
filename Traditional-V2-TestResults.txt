@@ -1,0 +1,1267 @@
+Task: 1, Test Name: Filters - brandAdibasCheckbox is displayed, DOM Id: brands__Adibas, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandAdibasCheckbox is displayed, DOM Id: brands__Adibas, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - brandAdibasCheckbox is displayed, DOM Id: brands__Adibas, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandAdibasCheckbox is displayed, DOM Id: brands__Adibas, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandAdibasCheckbox is displayed, DOM Id: brands__Adibas, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandAdibasCheckbox is displayed, DOM Id: brands__Adibas, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandAdibasCheckbox is displayed, DOM Id: brands__Adibas, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandBansCheckbox is displayed, DOM Id: brands__Bans, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandBansCheckbox is displayed, DOM Id: brands__Bans, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - brandBansCheckbox is displayed, DOM Id: brands__Bans, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandBansCheckbox is displayed, DOM Id: brands__Bans, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandBansCheckbox is displayed, DOM Id: brands__Bans, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandBansCheckbox is displayed, DOM Id: brands__Bans, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandBansCheckbox is displayed, DOM Id: brands__Bans, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandFilterSection is displayed, DOM Id: A__opened__130, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - brandFilterSection is displayed, DOM Id: A__opened__130, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - brandFilterSection is displayed, DOM Id: A__opened__130, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandFilterSection is displayed, DOM Id: A__opened__130, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - brandFilterSection is displayed, DOM Id: A__opened__130, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandFilterSection is displayed, DOM Id: A__opened__130, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - brandFilterSection is displayed, DOM Id: A__opened__130, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandImBalanceCheckbox is displayed, DOM Id: brands__ImBalance, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandImBalanceCheckbox is displayed, DOM Id: brands__ImBalance, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - brandImBalanceCheckbox is displayed, DOM Id: brands__ImBalance, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandImBalanceCheckbox is displayed, DOM Id: brands__ImBalance, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandImBalanceCheckbox is displayed, DOM Id: brands__ImBalance, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandImBalanceCheckbox is displayed, DOM Id: brands__ImBalance, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandImBalanceCheckbox is displayed, DOM Id: brands__ImBalance, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandMykeyCheckbox is displayed, DOM Id: brands__Mykey, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandMykeyCheckbox is displayed, DOM Id: brands__Mykey, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - brandMykeyCheckbox is displayed, DOM Id: brands__Mykey, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandMykeyCheckbox is displayed, DOM Id: brands__Mykey, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandMykeyCheckbox is displayed, DOM Id: brands__Mykey, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandMykeyCheckbox is displayed, DOM Id: brands__Mykey, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandMykeyCheckbox is displayed, DOM Id: brands__Mykey, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandOverArmourCheckbox is displayed, DOM Id: brands__OverArmour, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandOverArmourCheckbox is displayed, DOM Id: brands__OverArmour, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - brandOverArmourCheckbox is displayed, DOM Id: brands__OverArmour, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandOverArmourCheckbox is displayed, DOM Id: brands__OverArmour, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandOverArmourCheckbox is displayed, DOM Id: brands__OverArmour, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - brandOverArmourCheckbox is displayed, DOM Id: brands__OverArmour, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - brandOverArmourCheckbox is displayed, DOM Id: brands__OverArmour, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckbox is displayed, DOM Id: colors__Black, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckbox is displayed, DOM Id: colors__Black, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckbox is displayed, DOM Id: colors__Black, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckbox is displayed, DOM Id: colors__Black, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckbox is displayed, DOM Id: colors__Black, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckbox is displayed, DOM Id: colors__Black, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckbox is displayed, DOM Id: colors__Black, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckmark is displayed, DOM Id: SPAN__checkmark__107, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - colorBlackCheckmark is displayed, DOM Id: SPAN__checkmark__107, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckmark is displayed, DOM Id: SPAN__checkmark__107, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckmark is displayed, DOM Id: SPAN__checkmark__107, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - colorBlackCheckmark is displayed, DOM Id: SPAN__checkmark__107, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorBlackCheckmark is displayed, DOM Id: SPAN__checkmark__107, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - colorBlackCheckmark is displayed, DOM Id: SPAN__checkmark__107, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorBlueCheckbox is displayed, DOM Id: colors__Blue, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorBlueCheckbox is displayed, DOM Id: colors__Blue, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - colorBlueCheckbox is displayed, DOM Id: colors__Blue, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorBlueCheckbox is displayed, DOM Id: colors__Blue, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorBlueCheckbox is displayed, DOM Id: colors__Blue, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorBlueCheckbox is displayed, DOM Id: colors__Blue, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorBlueCheckbox is displayed, DOM Id: colors__Blue, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorFilterSection is displayed, DOM Id: A__opened__100, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - colorFilterSection is displayed, DOM Id: A__opened__100, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - colorFilterSection is displayed, DOM Id: A__opened__100, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorFilterSection is displayed, DOM Id: A__opened__100, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - colorFilterSection is displayed, DOM Id: A__opened__100, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorFilterSection is displayed, DOM Id: A__opened__100, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - colorFilterSection is displayed, DOM Id: A__opened__100, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorGreenCheckbox is displayed, DOM Id: colors__Green, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorGreenCheckbox is displayed, DOM Id: colors__Green, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - colorGreenCheckbox is displayed, DOM Id: colors__Green, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorGreenCheckbox is displayed, DOM Id: colors__Green, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorGreenCheckbox is displayed, DOM Id: colors__Green, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorGreenCheckbox is displayed, DOM Id: colors__Green, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorGreenCheckbox is displayed, DOM Id: colors__Green, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorWhiteCheckbox is displayed, DOM Id: colors__White, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorWhiteCheckbox is displayed, DOM Id: colors__White, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - colorWhiteCheckbox is displayed, DOM Id: colors__White, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorWhiteCheckbox is displayed, DOM Id: colors__White, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorWhiteCheckbox is displayed, DOM Id: colors__White, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorWhiteCheckbox is displayed, DOM Id: colors__White, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorWhiteCheckbox is displayed, DOM Id: colors__White, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorYellowCheckbox is displayed, DOM Id: colors__Yellow, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorYellowCheckbox is displayed, DOM Id: colors__Yellow, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - colorYellowCheckbox is displayed, DOM Id: colors__Yellow, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorYellowCheckbox is displayed, DOM Id: colors__Yellow, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorYellowCheckbox is displayed, DOM Id: colors__Yellow, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - colorYellowCheckbox is displayed, DOM Id: colors__Yellow, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - colorYellowCheckbox is displayed, DOM Id: colors__Yellow, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - filterButton is displayed, DOM Id: filterBtn, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - filterButton is displayed, DOM Id: filterBtn, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - filterButton is displayed, DOM Id: filterBtn, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - filterButton is displayed, DOM Id: filterBtn, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - filterButton is displayed, DOM Id: filterBtn, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - filterButton is displayed, DOM Id: filterBtn, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - filterButton is displayed, DOM Id: filterBtn, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - filtersSidebar is displayed, DOM Id: sidebar_filters, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - filtersSidebar is displayed, DOM Id: sidebar_filters, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - filtersSidebar is displayed, DOM Id: sidebar_filters, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - filtersSidebar is displayed, DOM Id: sidebar_filters, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - filtersSidebar is displayed, DOM Id: sidebar_filters, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - filtersSidebar is displayed, DOM Id: sidebar_filters, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - filtersSidebar is displayed, DOM Id: sidebar_filters, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - openFiltersSidebar is displayed, DOM Id: A__openfilter__207, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - openFiltersSidebar is displayed, DOM Id: A__openfilter__207, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Filters - openFiltersSidebar is displayed, DOM Id: A__openfilter__207, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filters - openFiltersSidebar is displayed, DOM Id: A__openfilter__207, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - openFiltersSidebar is displayed, DOM Id: A__openfilter__207, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filters - openFiltersSidebar is displayed, DOM Id: A__openfilter__207, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - openFiltersSidebar is displayed, DOM Id: A__openfilter__207, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filters - price0to50Checkbox is displayed, DOM Id: price__$0-$50, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price0to50Checkbox is displayed, DOM Id: price__$0-$50, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - price0to50Checkbox is displayed, DOM Id: price__$0-$50, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price0to50Checkbox is displayed, DOM Id: price__$0-$50, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price0to50Checkbox is displayed, DOM Id: price__$0-$50, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price0to50Checkbox is displayed, DOM Id: price__$0-$50, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price0to50Checkbox is displayed, DOM Id: price__$0-$50, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price100to150Checkbox is displayed, DOM Id: price__$100-$150, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price100to150Checkbox is displayed, DOM Id: price__$100-$150, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - price100to150Checkbox is displayed, DOM Id: price__$100-$150, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price100to150Checkbox is displayed, DOM Id: price__$100-$150, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price100to150Checkbox is displayed, DOM Id: price__$100-$150, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price100to150Checkbox is displayed, DOM Id: price__$100-$150, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price100to150Checkbox is displayed, DOM Id: price__$100-$150, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price150to500Checkbox is displayed, DOM Id: price__$150-$500, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price150to500Checkbox is displayed, DOM Id: price__$150-$500, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - price150to500Checkbox is displayed, DOM Id: price__$150-$500, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price150to500Checkbox is displayed, DOM Id: price__$150-$500, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price150to500Checkbox is displayed, DOM Id: price__$150-$500, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price150to500Checkbox is displayed, DOM Id: price__$150-$500, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price150to500Checkbox is displayed, DOM Id: price__$150-$500, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price50to100Checkbox is displayed, DOM Id: price__$50-$100, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price50to100Checkbox is displayed, DOM Id: price__$50-$100, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - price50to100Checkbox is displayed, DOM Id: price__$50-$100, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price50to100Checkbox is displayed, DOM Id: price__$50-$100, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price50to100Checkbox is displayed, DOM Id: price__$50-$100, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - price50to100Checkbox is displayed, DOM Id: price__$50-$100, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - price50to100Checkbox is displayed, DOM Id: price__$50-$100, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - priceFilterSection is displayed, DOM Id: A__opened__160, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - priceFilterSection is displayed, DOM Id: A__opened__160, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - priceFilterSection is displayed, DOM Id: A__opened__160, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - priceFilterSection is displayed, DOM Id: A__opened__160, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - priceFilterSection is displayed, DOM Id: A__opened__160, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - priceFilterSection is displayed, DOM Id: A__opened__160, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - priceFilterSection is displayed, DOM Id: A__opened__160, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - resetButton is displayed, DOM Id: resetBtn, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - resetButton is displayed, DOM Id: resetBtn, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - resetButton is displayed, DOM Id: resetBtn, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - resetButton is displayed, DOM Id: resetBtn, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - resetButton is displayed, DOM Id: resetBtn, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - resetButton is displayed, DOM Id: resetBtn, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - resetButton is displayed, DOM Id: resetBtn, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeBasketballCheckbox is displayed, DOM Id: type__Basketball, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeBasketballCheckbox is displayed, DOM Id: type__Basketball, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - typeBasketballCheckbox is displayed, DOM Id: type__Basketball, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeBasketballCheckbox is displayed, DOM Id: type__Basketball, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeBasketballCheckbox is displayed, DOM Id: type__Basketball, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeBasketballCheckbox is displayed, DOM Id: type__Basketball, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeBasketballCheckbox is displayed, DOM Id: type__Basketball, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeFilterSection is displayed, DOM Id: A__opened__75, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - typeFilterSection is displayed, DOM Id: A__opened__75, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - typeFilterSection is displayed, DOM Id: A__opened__75, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeFilterSection is displayed, DOM Id: A__opened__75, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - typeFilterSection is displayed, DOM Id: A__opened__75, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeFilterSection is displayed, DOM Id: A__opened__75, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filters - typeFilterSection is displayed, DOM Id: A__opened__75, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeRunningCheckbox is displayed, DOM Id: type__Running, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeRunningCheckbox is displayed, DOM Id: type__Running, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - typeRunningCheckbox is displayed, DOM Id: type__Running, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeRunningCheckbox is displayed, DOM Id: type__Running, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeRunningCheckbox is displayed, DOM Id: type__Running, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeRunningCheckbox is displayed, DOM Id: type__Running, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeRunningCheckbox is displayed, DOM Id: type__Running, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeSoccerCheckbox is displayed, DOM Id: type__Soccer, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeSoccerCheckbox is displayed, DOM Id: type__Soccer, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - typeSoccerCheckbox is displayed, DOM Id: type__Soccer, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeSoccerCheckbox is displayed, DOM Id: type__Soccer, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeSoccerCheckbox is displayed, DOM Id: type__Soccer, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeSoccerCheckbox is displayed, DOM Id: type__Soccer, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeSoccerCheckbox is displayed, DOM Id: type__Soccer, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeTrainingCheckbox is displayed, DOM Id: type__Training, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeTrainingCheckbox is displayed, DOM Id: type__Training, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Filters - typeTrainingCheckbox is displayed, DOM Id: type__Training, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeTrainingCheckbox is displayed, DOM Id: type__Training, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeTrainingCheckbox is displayed, DOM Id: type__Training, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Filters - typeTrainingCheckbox is displayed, DOM Id: type__Training, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Filters - typeTrainingCheckbox is displayed, DOM Id: type__Training, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Footer - aboutUsQuickLink is displayed, DOM Id: A____426, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - aboutUsQuickLink is displayed, DOM Id: A____426, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - aboutUsQuickLink is displayed, DOM Id: A____426, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - aboutUsQuickLink is displayed, DOM Id: A____426, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - aboutUsQuickLink is displayed, DOM Id: A____426, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - aboutUsQuickLink is displayed, DOM Id: A____426, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - aboutUsQuickLink is displayed, DOM Id: A____426, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - blogQuickLink is displayed, DOM Id: A____434, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - blogQuickLink is displayed, DOM Id: A____434, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - blogQuickLink is displayed, DOM Id: A____434, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - blogQuickLink is displayed, DOM Id: A____434, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - blogQuickLink is displayed, DOM Id: A____434, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - blogQuickLink is displayed, DOM Id: A____434, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - blogQuickLink is displayed, DOM Id: A____434, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactAddress is displayed, DOM Id: LI____441, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactAddress is displayed, DOM Id: LI____441, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Footer - contactAddress is displayed, DOM Id: LI____441, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactAddress is displayed, DOM Id: LI____441, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactAddress is displayed, DOM Id: LI____441, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactAddress is displayed, DOM Id: LI____441, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactAddress is displayed, DOM Id: LI____441, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactEmailAddress is displayed, DOM Id: LI____444, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactEmailAddress is displayed, DOM Id: LI____444, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Footer - contactEmailAddress is displayed, DOM Id: LI____444, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactEmailAddress is displayed, DOM Id: LI____444, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactEmailAddress is displayed, DOM Id: LI____444, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactEmailAddress is displayed, DOM Id: LI____444, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactEmailAddress is displayed, DOM Id: LI____444, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactsHeader is displayed, DOM Id: H3____438, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactsHeader is displayed, DOM Id: H3____438, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - contactsHeader is displayed, DOM Id: H3____438, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactsHeader is displayed, DOM Id: H3____438, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactsHeader is displayed, DOM Id: H3____438, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactsHeader is displayed, DOM Id: H3____438, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactsHeader is displayed, DOM Id: H3____438, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactsQuickLink is displayed, DOM Id: A____436, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactsQuickLink is displayed, DOM Id: A____436, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - contactsQuickLink is displayed, DOM Id: A____436, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactsQuickLink is displayed, DOM Id: A____436, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactsQuickLink is displayed, DOM Id: A____436, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - contactsQuickLink is displayed, DOM Id: A____436, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - contactsQuickLink is displayed, DOM Id: A____436, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - copyrightInfo is displayed, DOM Id: SPAN____478, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - copyrightInfo is displayed, DOM Id: SPAN____478, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - copyrightInfo is displayed, DOM Id: SPAN____478, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - copyrightInfo is displayed, DOM Id: SPAN____478, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - copyrightInfo is displayed, DOM Id: SPAN____478, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - copyrightInfo is displayed, DOM Id: SPAN____478, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - copyrightInfo is displayed, DOM Id: SPAN____478, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - currencySelector is displayed, DOM Id: DIV__styledsele__467, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - currencySelector is displayed, DOM Id: DIV__styledsele__467, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - currencySelector is displayed, DOM Id: DIV__styledsele__467, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - currencySelector is displayed, DOM Id: DIV__styledsele__467, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - currencySelector is displayed, DOM Id: DIV__styledsele__467, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - currencySelector is displayed, DOM Id: DIV__styledsele__467, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - currencySelector is displayed, DOM Id: DIV__styledsele__467, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - faqQuickLink is displayed, DOM Id: A____428, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - faqQuickLink is displayed, DOM Id: A____428, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - faqQuickLink is displayed, DOM Id: A____428, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - faqQuickLink is displayed, DOM Id: A____428, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - faqQuickLink is displayed, DOM Id: A____428, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - faqQuickLink is displayed, DOM Id: A____428, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - faqQuickLink is displayed, DOM Id: A____428, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - helpQuickLink is displayed, DOM Id: A____430, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - helpQuickLink is displayed, DOM Id: A____430, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - helpQuickLink is displayed, DOM Id: A____430, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - helpQuickLink is displayed, DOM Id: A____430, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - helpQuickLink is displayed, DOM Id: A____430, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - helpQuickLink is displayed, DOM Id: A____430, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - helpQuickLink is displayed, DOM Id: A____430, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - keepInTouchHeader is displayed, DOM Id: H3____448, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - keepInTouchHeader is displayed, DOM Id: H3____448, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - keepInTouchHeader is displayed, DOM Id: H3____448, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - keepInTouchHeader is displayed, DOM Id: H3____448, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - keepInTouchHeader is displayed, DOM Id: H3____448, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - keepInTouchHeader is displayed, DOM Id: H3____448, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - keepInTouchHeader is displayed, DOM Id: H3____448, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - languageSelector is displayed, DOM Id: DIV__styledsele__460, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - languageSelector is displayed, DOM Id: DIV__styledsele__460, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - languageSelector is displayed, DOM Id: DIV__styledsele__460, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - languageSelector is displayed, DOM Id: DIV__styledsele__460, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - languageSelector is displayed, DOM Id: DIV__styledsele__460, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - languageSelector is displayed, DOM Id: DIV__styledsele__460, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - languageSelector is displayed, DOM Id: DIV__styledsele__460, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - myAccountQuickLink is displayed, DOM Id: A____432, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - myAccountQuickLink is displayed, DOM Id: A____432, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - myAccountQuickLink is displayed, DOM Id: A____432, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - myAccountQuickLink is displayed, DOM Id: A____432, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - myAccountQuickLink is displayed, DOM Id: A____432, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - myAccountQuickLink is displayed, DOM Id: A____432, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - myAccountQuickLink is displayed, DOM Id: A____432, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - privacyLink is displayed, DOM Id: A____476, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - privacyLink is displayed, DOM Id: A____476, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - privacyLink is displayed, DOM Id: A____476, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - privacyLink is displayed, DOM Id: A____476, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - privacyLink is displayed, DOM Id: A____476, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - privacyLink is displayed, DOM Id: A____476, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - privacyLink is displayed, DOM Id: A____476, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - quickLinksHeader is displayed, DOM Id: H3__opened__422, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - quickLinksHeader is displayed, DOM Id: H3__opened__422, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - quickLinksHeader is displayed, DOM Id: H3__opened__422, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - quickLinksHeader is displayed, DOM Id: H3__opened__422, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - quickLinksHeader is displayed, DOM Id: H3__opened__422, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - quickLinksHeader is displayed, DOM Id: H3__opened__422, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - quickLinksHeader is displayed, DOM Id: H3__opened__422, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - termsAndConditionsLink is displayed, DOM Id: A____474, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - termsAndConditionsLink is displayed, DOM Id: A____474, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Footer - termsAndConditionsLink is displayed, DOM Id: A____474, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - termsAndConditionsLink is displayed, DOM Id: A____474, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - termsAndConditionsLink is displayed, DOM Id: A____474, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - termsAndConditionsLink is displayed, DOM Id: A____474, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - termsAndConditionsLink is displayed, DOM Id: A____474, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - yourEmailField is displayed, DOM Id: email_newsletter, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - yourEmailField is displayed, DOM Id: email_newsletter, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Footer - yourEmailField is displayed, DOM Id: email_newsletter, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - yourEmailField is displayed, DOM Id: email_newsletter, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - yourEmailField is displayed, DOM Id: email_newsletter, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer - yourEmailField is displayed, DOM Id: email_newsletter, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer - yourEmailField is displayed, DOM Id: email_newsletter, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - gridViewIcon is displayed, DOM Id: I__tiviewgrid__203, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - gridViewIcon is displayed, DOM Id: I__tiviewgrid__203, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - gridViewIcon is displayed, DOM Id: I__tiviewgrid__203, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - gridViewIcon is displayed, DOM Id: I__tiviewgrid__203, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - gridViewIcon is displayed, DOM Id: I__tiviewgrid__203, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - gridViewIcon is displayed, DOM Id: I__tiviewgrid__203, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - gridViewIcon is displayed, DOM Id: I__tiviewgrid__203, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - listViewIcon is displayed, DOM Id: I__tiviewlist__205, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - listViewIcon is displayed, DOM Id: I__tiviewlist__205, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - listViewIcon is displayed, DOM Id: I__tiviewlist__205, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - listViewIcon is displayed, DOM Id: I__tiviewlist__205, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - listViewIcon is displayed, DOM Id: I__tiviewlist__205, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - listViewIcon is displayed, DOM Id: I__tiviewlist__205, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - listViewIcon is displayed, DOM Id: I__tiviewlist__205, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1AddToCartIcon is displayed, DOM Id: I__tishopping__234, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product1AddToCartIcon is displayed, DOM Id: I__tishopping__234, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product1AddToCartIcon is displayed, DOM Id: I__tishopping__234, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product1AddToCartIcon is displayed, DOM Id: I__tishopping__234, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product1AddToCartIcon is displayed, DOM Id: I__tishopping__234, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product1AddToCartIcon is displayed, DOM Id: I__tishopping__234, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product1AddToCartIcon is displayed, DOM Id: I__tishopping__234, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product1AddToCompareIcon is displayed, DOM Id: I__ticontrols__230, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product1AddToCompareIcon is displayed, DOM Id: I__ticontrols__230, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product1AddToCompareIcon is displayed, DOM Id: I__ticontrols__230, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product1AddToCompareIcon is displayed, DOM Id: I__ticontrols__230, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product1AddToCompareIcon is displayed, DOM Id: I__ticontrols__230, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product1AddToCompareIcon is displayed, DOM Id: I__ticontrols__230, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product1AddToCompareIcon is displayed, DOM Id: I__ticontrols__230, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product1AddToFavoritesIcon is displayed, DOM Id: I__tiheart__226, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product1AddToFavoritesIcon is displayed, DOM Id: I__tiheart__226, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product1AddToFavoritesIcon is displayed, DOM Id: I__tiheart__226, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product1AddToFavoritesIcon is displayed, DOM Id: I__tiheart__226, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product1AddToFavoritesIcon is displayed, DOM Id: I__tiheart__226, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product1AddToFavoritesIcon is displayed, DOM Id: I__tiheart__226, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product1AddToFavoritesIcon is displayed, DOM Id: I__tiheart__226, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product1ImageLink is displayed, DOM Id: product_1, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1ImageLink is displayed, DOM Id: product_1, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product1ImageLink is displayed, DOM Id: product_1, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1ImageLink is displayed, DOM Id: product_1, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1ImageLink is displayed, DOM Id: product_1, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1ImageLink is displayed, DOM Id: product_1, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1ImageLink is displayed, DOM Id: product_1, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1Name is displayed, DOM Id: A____218, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1Name is displayed, DOM Id: A____218, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product1Name is displayed, DOM Id: A____218, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1Name is displayed, DOM Id: A____218, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1Name is displayed, DOM Id: A____218, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1Name is displayed, DOM Id: A____218, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1Name is displayed, DOM Id: A____218, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1NewPrice is displayed, DOM Id: SPAN__newprice__221, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1NewPrice is displayed, DOM Id: SPAN__newprice__221, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product1NewPrice is displayed, DOM Id: SPAN__newprice__221, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1NewPrice is displayed, DOM Id: SPAN__newprice__221, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1NewPrice is displayed, DOM Id: SPAN__newprice__221, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1NewPrice is displayed, DOM Id: SPAN__newprice__221, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1NewPrice is displayed, DOM Id: SPAN__newprice__221, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1OldPrice is displayed, DOM Id: SPAN__oldprice__222, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1OldPrice is displayed, DOM Id: SPAN__oldprice__222, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product1OldPrice is displayed, DOM Id: SPAN__oldprice__222, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1OldPrice is displayed, DOM Id: SPAN__oldprice__222, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1OldPrice is displayed, DOM Id: SPAN__oldprice__222, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product1OldPrice is displayed, DOM Id: SPAN__oldprice__222, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product1OldPrice is displayed, DOM Id: SPAN__oldprice__222, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2AddToCartIcon is displayed, DOM Id: I__tishopping__394, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product2AddToCartIcon is displayed, DOM Id: I__tishopping__394, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product2AddToCartIcon is displayed, DOM Id: I__tishopping__394, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product2AddToCartIcon is displayed, DOM Id: I__tishopping__394, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product2AddToCartIcon is displayed, DOM Id: I__tishopping__394, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product2AddToCartIcon is displayed, DOM Id: I__tishopping__394, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product2AddToCartIcon is displayed, DOM Id: I__tishopping__394, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product2AddToCompareIcon is displayed, DOM Id: I__ticontrols__390, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product2AddToCompareIcon is displayed, DOM Id: I__ticontrols__390, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product2AddToCompareIcon is displayed, DOM Id: I__ticontrols__390, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product2AddToCompareIcon is displayed, DOM Id: I__ticontrols__390, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product2AddToCompareIcon is displayed, DOM Id: I__ticontrols__390, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product2AddToCompareIcon is displayed, DOM Id: I__ticontrols__390, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product2AddToCompareIcon is displayed, DOM Id: I__ticontrols__390, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product2AddToFavoritesIcon is displayed, DOM Id: I__tiheart__386, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product2AddToFavoritesIcon is displayed, DOM Id: I__tiheart__386, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product2AddToFavoritesIcon is displayed, DOM Id: I__tiheart__386, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product2AddToFavoritesIcon is displayed, DOM Id: I__tiheart__386, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product2AddToFavoritesIcon is displayed, DOM Id: I__tiheart__386, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product2AddToFavoritesIcon is displayed, DOM Id: I__tiheart__386, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product2AddToFavoritesIcon is displayed, DOM Id: I__tiheart__386, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product2ImageLink is displayed, DOM Id: product_2, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2ImageLink is displayed, DOM Id: product_2, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product2ImageLink is displayed, DOM Id: product_2, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2ImageLink is displayed, DOM Id: product_2, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2ImageLink is displayed, DOM Id: product_2, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2ImageLink is displayed, DOM Id: product_2, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2ImageLink is displayed, DOM Id: product_2, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2Name is displayed, DOM Id: A____378, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2Name is displayed, DOM Id: A____378, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product2Name is displayed, DOM Id: A____378, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2Name is displayed, DOM Id: A____378, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2Name is displayed, DOM Id: A____378, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2Name is displayed, DOM Id: A____378, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2Name is displayed, DOM Id: A____378, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2NewPrice is displayed, DOM Id: SPAN__newprice__381, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2NewPrice is displayed, DOM Id: SPAN__newprice__381, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product2NewPrice is displayed, DOM Id: SPAN__newprice__381, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2NewPrice is displayed, DOM Id: SPAN__newprice__381, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2NewPrice is displayed, DOM Id: SPAN__newprice__381, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2NewPrice is displayed, DOM Id: SPAN__newprice__381, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2NewPrice is displayed, DOM Id: SPAN__newprice__381, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2OldPrice is displayed, DOM Id: SPAN__oldprice__382, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2OldPrice is displayed, DOM Id: SPAN__oldprice__382, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product2OldPrice is displayed, DOM Id: SPAN__oldprice__382, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2OldPrice is displayed, DOM Id: SPAN__oldprice__382, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2OldPrice is displayed, DOM Id: SPAN__oldprice__382, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product2OldPrice is displayed, DOM Id: SPAN__oldprice__382, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product2OldPrice is displayed, DOM Id: SPAN__oldprice__382, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3AddToCartIcon is displayed, DOM Id: I__tishopping__259, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product3AddToCartIcon is displayed, DOM Id: I__tishopping__259, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product3AddToCartIcon is displayed, DOM Id: I__tishopping__259, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product3AddToCartIcon is displayed, DOM Id: I__tishopping__259, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product3AddToCartIcon is displayed, DOM Id: I__tishopping__259, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product3AddToCartIcon is displayed, DOM Id: I__tishopping__259, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product3AddToCartIcon is displayed, DOM Id: I__tishopping__259, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product3AddToCompareIcon is displayed, DOM Id: I__ticontrols__255, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product3AddToCompareIcon is displayed, DOM Id: I__ticontrols__255, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product3AddToCompareIcon is displayed, DOM Id: I__ticontrols__255, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product3AddToCompareIcon is displayed, DOM Id: I__ticontrols__255, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product3AddToCompareIcon is displayed, DOM Id: I__ticontrols__255, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product3AddToCompareIcon is displayed, DOM Id: I__ticontrols__255, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product3AddToCompareIcon is displayed, DOM Id: I__ticontrols__255, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product3AddToFavoritesIcon is displayed, DOM Id: I__tiheart__251, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product3AddToFavoritesIcon is displayed, DOM Id: I__tiheart__251, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product3AddToFavoritesIcon is displayed, DOM Id: I__tiheart__251, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product3AddToFavoritesIcon is displayed, DOM Id: I__tiheart__251, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product3AddToFavoritesIcon is displayed, DOM Id: I__tiheart__251, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product3AddToFavoritesIcon is displayed, DOM Id: I__tiheart__251, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product3AddToFavoritesIcon is displayed, DOM Id: I__tiheart__251, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product3ImageLink is displayed, DOM Id: product_3, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3ImageLink is displayed, DOM Id: product_3, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product3ImageLink is displayed, DOM Id: product_3, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3ImageLink is displayed, DOM Id: product_3, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3ImageLink is displayed, DOM Id: product_3, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3ImageLink is displayed, DOM Id: product_3, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3ImageLink is displayed, DOM Id: product_3, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3Name is displayed, DOM Id: A____243, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3Name is displayed, DOM Id: A____243, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product3Name is displayed, DOM Id: A____243, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3Name is displayed, DOM Id: A____243, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3Name is displayed, DOM Id: A____243, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3Name is displayed, DOM Id: A____243, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3Name is displayed, DOM Id: A____243, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3NewPrice is displayed, DOM Id: SPAN__newprice__246, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3NewPrice is displayed, DOM Id: SPAN__newprice__246, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product3NewPrice is displayed, DOM Id: SPAN__newprice__246, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3NewPrice is displayed, DOM Id: SPAN__newprice__246, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3NewPrice is displayed, DOM Id: SPAN__newprice__246, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3NewPrice is displayed, DOM Id: SPAN__newprice__246, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3NewPrice is displayed, DOM Id: SPAN__newprice__246, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3OldPrice is displayed, DOM Id: SPAN__oldprice__247, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3OldPrice is displayed, DOM Id: SPAN__oldprice__247, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product3OldPrice is displayed, DOM Id: SPAN__oldprice__247, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3OldPrice is displayed, DOM Id: SPAN__oldprice__247, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3OldPrice is displayed, DOM Id: SPAN__oldprice__247, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product3OldPrice is displayed, DOM Id: SPAN__oldprice__247, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product3OldPrice is displayed, DOM Id: SPAN__oldprice__247, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product4AddToCartIcon is displayed, DOM Id: I__tishopping__281, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product4AddToCartIcon is displayed, DOM Id: I__tishopping__281, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product4AddToCartIcon is displayed, DOM Id: I__tishopping__281, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product4AddToCartIcon is displayed, DOM Id: I__tishopping__281, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product4AddToCartIcon is displayed, DOM Id: I__tishopping__281, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product4AddToCartIcon is displayed, DOM Id: I__tishopping__281, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product4AddToCartIcon is displayed, DOM Id: I__tishopping__281, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product4AddToCompareIcon is displayed, DOM Id: I__ticontrols__277, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product4AddToCompareIcon is displayed, DOM Id: I__ticontrols__277, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product4AddToCompareIcon is displayed, DOM Id: I__ticontrols__277, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product4AddToCompareIcon is displayed, DOM Id: I__ticontrols__277, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product4AddToCompareIcon is displayed, DOM Id: I__ticontrols__277, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product4AddToCompareIcon is displayed, DOM Id: I__ticontrols__277, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product4AddToCompareIcon is displayed, DOM Id: I__ticontrols__277, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product4AddToFavoritesIcon is displayed, DOM Id: I__tiheart__273, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product4AddToFavoritesIcon is displayed, DOM Id: I__tiheart__273, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product4AddToFavoritesIcon is displayed, DOM Id: I__tiheart__273, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product4AddToFavoritesIcon is displayed, DOM Id: I__tiheart__273, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product4AddToFavoritesIcon is displayed, DOM Id: I__tiheart__273, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product4AddToFavoritesIcon is displayed, DOM Id: I__tiheart__273, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product4AddToFavoritesIcon is displayed, DOM Id: I__tiheart__273, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product4ImageLink is displayed, DOM Id: product_4, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product4ImageLink is displayed, DOM Id: product_4, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product4ImageLink is displayed, DOM Id: product_4, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product4ImageLink is displayed, DOM Id: product_4, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product4ImageLink is displayed, DOM Id: product_4, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product4ImageLink is displayed, DOM Id: product_4, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product4ImageLink is displayed, DOM Id: product_4, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product4Name is displayed, DOM Id: A____266, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product4Name is displayed, DOM Id: A____266, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product4Name is displayed, DOM Id: A____266, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product4Name is displayed, DOM Id: A____266, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product4Name is displayed, DOM Id: A____266, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product4Name is displayed, DOM Id: A____266, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product4Name is displayed, DOM Id: A____266, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product4NewPrice is displayed, DOM Id: SPAN__newprice__269, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product4NewPrice is displayed, DOM Id: SPAN__newprice__269, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product4NewPrice is displayed, DOM Id: SPAN__newprice__269, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product4NewPrice is displayed, DOM Id: SPAN__newprice__269, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product4NewPrice is displayed, DOM Id: SPAN__newprice__269, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product4NewPrice is displayed, DOM Id: SPAN__newprice__269, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product4NewPrice is displayed, DOM Id: SPAN__newprice__269, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product5AddToCartIcon is displayed, DOM Id: A__tooltip__302, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product5AddToCartIcon is displayed, DOM Id: A__tooltip__302, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product5AddToCartIcon is displayed, DOM Id: A__tooltip__302, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product5AddToCartIcon is displayed, DOM Id: A__tooltip__302, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product5AddToCartIcon is displayed, DOM Id: A__tooltip__302, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product5AddToCartIcon is displayed, DOM Id: A__tooltip__302, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product5AddToCartIcon is displayed, DOM Id: A__tooltip__302, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product5AddToCompareIcon is displayed, DOM Id: I__ticontrols__299, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product5AddToCompareIcon is displayed, DOM Id: I__ticontrols__299, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product5AddToCompareIcon is displayed, DOM Id: I__ticontrols__299, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product5AddToCompareIcon is displayed, DOM Id: I__ticontrols__299, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product5AddToCompareIcon is displayed, DOM Id: I__ticontrols__299, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product5AddToCompareIcon is displayed, DOM Id: I__ticontrols__299, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product5AddToCompareIcon is displayed, DOM Id: I__ticontrols__299, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product5AddToFavoritesIcon is displayed, DOM Id: I__tiheart__295, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product5AddToFavoritesIcon is displayed, DOM Id: I__tiheart__295, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product5AddToFavoritesIcon is displayed, DOM Id: I__tiheart__295, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product5AddToFavoritesIcon is displayed, DOM Id: I__tiheart__295, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product5AddToFavoritesIcon is displayed, DOM Id: I__tiheart__295, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product5AddToFavoritesIcon is displayed, DOM Id: I__tiheart__295, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product5AddToFavoritesIcon is displayed, DOM Id: I__tiheart__295, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product5ImageLink is displayed, DOM Id: product_5, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product5ImageLink is displayed, DOM Id: product_5, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product5ImageLink is displayed, DOM Id: product_5, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product5ImageLink is displayed, DOM Id: product_5, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product5ImageLink is displayed, DOM Id: product_5, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product5ImageLink is displayed, DOM Id: product_5, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product5ImageLink is displayed, DOM Id: product_5, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product5Name is displayed, DOM Id: A____288, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product5Name is displayed, DOM Id: A____288, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product5Name is displayed, DOM Id: A____288, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product5Name is displayed, DOM Id: A____288, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product5Name is displayed, DOM Id: A____288, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product5Name is displayed, DOM Id: A____288, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product5Name is displayed, DOM Id: A____288, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product5NewPrice is displayed, DOM Id: SPAN__newprice__291, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product5NewPrice is displayed, DOM Id: SPAN__newprice__291, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product5NewPrice is displayed, DOM Id: SPAN__newprice__291, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product5NewPrice is displayed, DOM Id: SPAN__newprice__291, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product5NewPrice is displayed, DOM Id: SPAN__newprice__291, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product5NewPrice is displayed, DOM Id: SPAN__newprice__291, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product5NewPrice is displayed, DOM Id: SPAN__newprice__291, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product6AddToCartIcon is displayed, DOM Id: I__tishopping__325, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product6AddToCartIcon is displayed, DOM Id: I__tishopping__325, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product6AddToCartIcon is displayed, DOM Id: I__tishopping__325, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product6AddToCartIcon is displayed, DOM Id: I__tishopping__325, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product6AddToCartIcon is displayed, DOM Id: I__tishopping__325, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product6AddToCartIcon is displayed, DOM Id: I__tishopping__325, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product6AddToCartIcon is displayed, DOM Id: I__tishopping__325, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product6AddToCompareIcon is displayed, DOM Id: I__ticontrols__321, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product6AddToCompareIcon is displayed, DOM Id: I__ticontrols__321, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product6AddToCompareIcon is displayed, DOM Id: I__ticontrols__321, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product6AddToCompareIcon is displayed, DOM Id: I__ticontrols__321, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product6AddToCompareIcon is displayed, DOM Id: I__ticontrols__321, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product6AddToCompareIcon is displayed, DOM Id: I__ticontrols__321, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product6AddToCompareIcon is displayed, DOM Id: I__ticontrols__321, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product6AddToFavoritesIcon is displayed, DOM Id: I__tiheart__317, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product6AddToFavoritesIcon is displayed, DOM Id: I__tiheart__317, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product6AddToFavoritesIcon is displayed, DOM Id: I__tiheart__317, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product6AddToFavoritesIcon is displayed, DOM Id: I__tiheart__317, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product6AddToFavoritesIcon is displayed, DOM Id: I__tiheart__317, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product6AddToFavoritesIcon is displayed, DOM Id: I__tiheart__317, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product6AddToFavoritesIcon is displayed, DOM Id: I__tiheart__317, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product6ImageLink is displayed, DOM Id: product_6, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product6ImageLink is displayed, DOM Id: product_6, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product6ImageLink is displayed, DOM Id: product_6, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product6ImageLink is displayed, DOM Id: product_6, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product6ImageLink is displayed, DOM Id: product_6, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product6ImageLink is displayed, DOM Id: product_6, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product6ImageLink is displayed, DOM Id: product_6, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product6Name is displayed, DOM Id: A____310, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product6Name is displayed, DOM Id: A____310, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product6Name is displayed, DOM Id: A____310, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product6Name is displayed, DOM Id: A____310, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product6Name is displayed, DOM Id: A____310, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product6Name is displayed, DOM Id: A____310, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product6Name is displayed, DOM Id: A____310, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product6NewPrice is displayed, DOM Id: SPAN__newprice__313, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product6NewPrice is displayed, DOM Id: SPAN__newprice__313, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product6NewPrice is displayed, DOM Id: SPAN__newprice__313, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product6NewPrice is displayed, DOM Id: SPAN__newprice__313, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product6NewPrice is displayed, DOM Id: SPAN__newprice__313, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product6NewPrice is displayed, DOM Id: SPAN__newprice__313, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product6NewPrice is displayed, DOM Id: SPAN__newprice__313, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product7AddToCartIcon is displayed, DOM Id: I__tishopping__347, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product7AddToCartIcon is displayed, DOM Id: I__tishopping__347, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product7AddToCartIcon is displayed, DOM Id: I__tishopping__347, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product7AddToCartIcon is displayed, DOM Id: I__tishopping__347, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product7AddToCartIcon is displayed, DOM Id: I__tishopping__347, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product7AddToCartIcon is displayed, DOM Id: I__tishopping__347, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product7AddToCartIcon is displayed, DOM Id: I__tishopping__347, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product7AddToCompareIcon is displayed, DOM Id: I__ticontrols__343, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product7AddToCompareIcon is displayed, DOM Id: I__ticontrols__343, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product7AddToCompareIcon is displayed, DOM Id: I__ticontrols__343, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product7AddToCompareIcon is displayed, DOM Id: I__ticontrols__343, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product7AddToCompareIcon is displayed, DOM Id: I__ticontrols__343, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product7AddToCompareIcon is displayed, DOM Id: I__ticontrols__343, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product7AddToCompareIcon is displayed, DOM Id: I__ticontrols__343, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product7AddToFavoritesIcon is displayed, DOM Id: I__tiheart__339, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product7AddToFavoritesIcon is displayed, DOM Id: I__tiheart__339, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product7AddToFavoritesIcon is displayed, DOM Id: I__tiheart__339, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product7AddToFavoritesIcon is displayed, DOM Id: I__tiheart__339, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product7AddToFavoritesIcon is displayed, DOM Id: I__tiheart__339, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product7AddToFavoritesIcon is displayed, DOM Id: I__tiheart__339, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product7AddToFavoritesIcon is displayed, DOM Id: I__tiheart__339, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product7ImageLink is displayed, DOM Id: product_7, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product7ImageLink is displayed, DOM Id: product_7, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product7ImageLink is displayed, DOM Id: product_7, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product7ImageLink is displayed, DOM Id: product_7, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product7ImageLink is displayed, DOM Id: product_7, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product7ImageLink is displayed, DOM Id: product_7, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product7ImageLink is displayed, DOM Id: product_7, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product7Name is displayed, DOM Id: A____332, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product7Name is displayed, DOM Id: A____332, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product7Name is displayed, DOM Id: A____332, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product7Name is displayed, DOM Id: A____332, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product7Name is displayed, DOM Id: A____332, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product7Name is displayed, DOM Id: A____332, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product7Name is displayed, DOM Id: A____332, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product7NewPrice is displayed, DOM Id: SPAN__newprice__335, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product7NewPrice is displayed, DOM Id: SPAN__newprice__335, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product7NewPrice is displayed, DOM Id: SPAN__newprice__335, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product7NewPrice is displayed, DOM Id: SPAN__newprice__335, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product7NewPrice is displayed, DOM Id: SPAN__newprice__335, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product7NewPrice is displayed, DOM Id: SPAN__newprice__335, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product7NewPrice is displayed, DOM Id: SPAN__newprice__335, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product8AddToCartIcon is displayed, DOM Id: I__tishopping__369, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product8AddToCartIcon is displayed, DOM Id: I__tishopping__369, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product8AddToCartIcon is displayed, DOM Id: I__tishopping__369, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product8AddToCartIcon is displayed, DOM Id: I__tishopping__369, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product8AddToCartIcon is displayed, DOM Id: I__tishopping__369, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product8AddToCartIcon is displayed, DOM Id: I__tishopping__369, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product8AddToCartIcon is displayed, DOM Id: I__tishopping__369, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product8AddToCompareIcon is displayed, DOM Id: I__ticontrols__365, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product8AddToCompareIcon is displayed, DOM Id: I__ticontrols__365, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product8AddToCompareIcon is displayed, DOM Id: I__ticontrols__365, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product8AddToCompareIcon is displayed, DOM Id: I__ticontrols__365, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product8AddToCompareIcon is displayed, DOM Id: I__ticontrols__365, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product8AddToCompareIcon is displayed, DOM Id: I__ticontrols__365, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product8AddToCompareIcon is displayed, DOM Id: I__ticontrols__365, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product8AddToFavoritesIcon is displayed, DOM Id: I__tiheart__361, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product8AddToFavoritesIcon is displayed, DOM Id: I__tiheart__361, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product8AddToFavoritesIcon is displayed, DOM Id: I__tiheart__361, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product8AddToFavoritesIcon is displayed, DOM Id: I__tiheart__361, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product8AddToFavoritesIcon is displayed, DOM Id: I__tiheart__361, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product8AddToFavoritesIcon is displayed, DOM Id: I__tiheart__361, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product8AddToFavoritesIcon is displayed, DOM Id: I__tiheart__361, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product8ImageLink is displayed, DOM Id: product_8, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product8ImageLink is displayed, DOM Id: product_8, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product8ImageLink is displayed, DOM Id: product_8, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product8ImageLink is displayed, DOM Id: product_8, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product8ImageLink is displayed, DOM Id: product_8, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product8ImageLink is displayed, DOM Id: product_8, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product8ImageLink is displayed, DOM Id: product_8, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product8Name is displayed, DOM Id: A____354, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product8Name is displayed, DOM Id: A____354, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product8Name is displayed, DOM Id: A____354, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product8Name is displayed, DOM Id: A____354, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product8Name is displayed, DOM Id: A____354, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product8Name is displayed, DOM Id: A____354, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product8Name is displayed, DOM Id: A____354, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product8NewPrice is displayed, DOM Id: SPAN__newprice__357, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product8NewPrice is displayed, DOM Id: SPAN__newprice__357, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product8NewPrice is displayed, DOM Id: SPAN__newprice__357, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product8NewPrice is displayed, DOM Id: SPAN__newprice__357, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product8NewPrice is displayed, DOM Id: SPAN__newprice__357, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product8NewPrice is displayed, DOM Id: SPAN__newprice__357, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product8NewPrice is displayed, DOM Id: SPAN__newprice__357, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product9AddToCartIcon is displayed, DOM Id: I__tishopping__416, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product9AddToCartIcon is displayed, DOM Id: I__tishopping__416, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product9AddToCartIcon is displayed, DOM Id: I__tishopping__416, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product9AddToCartIcon is displayed, DOM Id: I__tishopping__416, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product9AddToCartIcon is displayed, DOM Id: I__tishopping__416, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product9AddToCartIcon is displayed, DOM Id: I__tishopping__416, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product9AddToCartIcon is displayed, DOM Id: I__tishopping__416, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product9AddToCompareIcon is displayed, DOM Id: I__ticontrols__412, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product9AddToCompareIcon is displayed, DOM Id: I__ticontrols__412, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product9AddToCompareIcon is displayed, DOM Id: I__ticontrols__412, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product9AddToCompareIcon is displayed, DOM Id: I__ticontrols__412, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product9AddToCompareIcon is displayed, DOM Id: I__ticontrols__412, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product9AddToCompareIcon is displayed, DOM Id: I__ticontrols__412, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product9AddToCompareIcon is displayed, DOM Id: I__ticontrols__412, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product9AddToFavoritesIcon is displayed, DOM Id: I__tiheart__408, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product9AddToFavoritesIcon is displayed, DOM Id: I__tiheart__408, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Products - product9AddToFavoritesIcon is displayed, DOM Id: I__tiheart__408, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product9AddToFavoritesIcon is displayed, DOM Id: I__tiheart__408, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product9AddToFavoritesIcon is displayed, DOM Id: I__tiheart__408, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product9AddToFavoritesIcon is displayed, DOM Id: I__tiheart__408, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Products - product9AddToFavoritesIcon is displayed, DOM Id: I__tiheart__408, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Products - product9ImageLink is displayed, DOM Id: product_9, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product9ImageLink is displayed, DOM Id: product_9, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product9ImageLink is displayed, DOM Id: product_9, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product9ImageLink is displayed, DOM Id: product_9, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product9ImageLink is displayed, DOM Id: product_9, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product9ImageLink is displayed, DOM Id: product_9, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product9ImageLink is displayed, DOM Id: product_9, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product9Name is displayed, DOM Id: A____401, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product9Name is displayed, DOM Id: A____401, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product9Name is displayed, DOM Id: A____401, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product9Name is displayed, DOM Id: A____401, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product9Name is displayed, DOM Id: A____401, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product9Name is displayed, DOM Id: A____401, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product9Name is displayed, DOM Id: A____401, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product9NewPrice is displayed, DOM Id: SPAN__newprice__404, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product9NewPrice is displayed, DOM Id: SPAN__newprice__404, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - product9NewPrice is displayed, DOM Id: SPAN__newprice__404, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product9NewPrice is displayed, DOM Id: SPAN__newprice__404, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product9NewPrice is displayed, DOM Id: SPAN__newprice__404, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - product9NewPrice is displayed, DOM Id: SPAN__newprice__404, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - product9NewPrice is displayed, DOM Id: SPAN__newprice__404, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - sortByContainer is displayed, DOM Id: DIV__toolboxele__190, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - sortByContainer is displayed, DOM Id: DIV__toolboxele__190, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - sortByContainer is displayed, DOM Id: DIV__toolboxele__190, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - sortByContainer is displayed, DOM Id: DIV__toolboxele__190, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - sortByContainer is displayed, DOM Id: DIV__toolboxele__190, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - sortByContainer is displayed, DOM Id: DIV__toolboxele__190, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - sortByContainer is displayed, DOM Id: DIV__toolboxele__190, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - sortByDropdown is displayed, DOM Id: DIV__sortselect__194, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - sortByDropdown is displayed, DOM Id: DIV__sortselect__194, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - sortByDropdown is displayed, DOM Id: DIV__sortselect__194, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - sortByDropdown is displayed, DOM Id: DIV__sortselect__194, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - sortByDropdown is displayed, DOM Id: DIV__sortselect__194, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - sortByDropdown is displayed, DOM Id: DIV__sortselect__194, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - sortByDropdown is displayed, DOM Id: DIV__sortselect__194, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - topBannerImage is displayed, DOM Id: DIV__topbanner__188, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - topBannerImage is displayed, DOM Id: DIV__topbanner__188, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Products - topBannerImage is displayed, DOM Id: DIV__topbanner__188, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - topBannerImage is displayed, DOM Id: DIV__topbanner__188, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - topBannerImage is displayed, DOM Id: DIV__topbanner__188, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Products - topBannerImage is displayed, DOM Id: DIV__topbanner__188, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Products - topBannerImage is displayed, DOM Id: DIV__topbanner__188, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - desktopSearchButton is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search - desktopSearchButton is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Search - desktopSearchButton is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - desktopSearchButton is displayed, DOM Id: BUTTONsubmit____43, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search - desktopSearchButton is displayed, DOM Id: BUTTONsubmit____43, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - desktopSearchButton is displayed, DOM Id: BUTTONsubmit____43, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search - desktopSearchButton is displayed, DOM Id: BUTTONsubmit____43, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - desktopSearchField is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search - desktopSearchField is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Search - desktopSearchField is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - desktopSearchField is displayed, DOM Id: DIV__customsear__41, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search - desktopSearchField is displayed, DOM Id: DIV__customsear__41, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - desktopSearchField is displayed, DOM Id: DIV__customsear__41, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search - desktopSearchField is displayed, DOM Id: DIV__customsear__41, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - desktopSearchPlaceholderText is displayed, DOM Id: INPUTtext____42, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search - desktopSearchPlaceholderText is displayed, DOM Id: INPUTtext____42, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Search - desktopSearchPlaceholderText is displayed, DOM Id: INPUTtext____42, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - desktopSearchPlaceholderText is displayed, DOM Id: INPUTtext____42, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search - desktopSearchPlaceholderText is displayed, DOM Id: INPUTtext____42, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - desktopSearchPlaceholderText is displayed, DOM Id: INPUTtext____42, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search - desktopSearchPlaceholderText is displayed, DOM Id: INPUTtext____42, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search - mobileSearchButton is displayed, DOM Id: INPUTsubmit__btnfullwid__63, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Search - mobileSearchButton is displayed, DOM Id: INPUTsubmit__btnfullwid__63, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Search - mobileSearchButton is displayed, DOM Id: INPUTsubmit__btnfullwid__63, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Search - mobileSearchButton is displayed, DOM Id: INPUTsubmit__btnfullwid__63, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Search - mobileSearchButton is displayed, DOM Id: INPUTsubmit__btnfullwid__63, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Search - mobileSearchButton is displayed, DOM Id: INPUTsubmit__btnfullwid__63, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Search - mobileSearchButton is displayed, DOM Id: INPUTsubmit__btnfullwid__63, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Search - mobileSearchField is displayed, DOM Id: INPUTtext__formcontro__62, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Search - mobileSearchField is displayed, DOM Id: INPUTtext__formcontro__62, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 1, Test Name: Search - mobileSearchField is displayed, DOM Id: INPUTtext__formcontro__62, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Search - mobileSearchField is displayed, DOM Id: INPUTtext__formcontro__62, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Search - mobileSearchField is displayed, DOM Id: INPUTtext__formcontro__62, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Search - mobileSearchField is displayed, DOM Id: INPUTtext__formcontro__62, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Search - mobileSearchField is displayed, DOM Id: INPUTtext__formcontro__62, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Search - mobileSearchIcon is displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Search - mobileSearchIcon is displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Search - mobileSearchIcon is displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Search - mobileSearchIcon is displayed, DOM Id: A__btnsearchm__59, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Search - mobileSearchIcon is displayed, DOM Id: A__btnsearchm__59, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Search - mobileSearchIcon is displayed, DOM Id: A__btnsearchm__59, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 1, Test Name: Search - mobileSearchIcon is displayed, DOM Id: A__btnsearchm__59, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - A____218 is displayed, DOM Id: A____218, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - A____218 is displayed, DOM Id: A____218, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filtered Products - A____218 is displayed, DOM Id: A____218, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - A____218 is displayed, DOM Id: A____218, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - A____218 is displayed, DOM Id: A____218, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - A____218 is displayed, DOM Id: A____218, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - A____218 is displayed, DOM Id: A____218, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - A____241 is displayed, DOM Id: A____241, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - A____241 is displayed, DOM Id: A____241, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filtered Products - A____241 is displayed, DOM Id: A____241, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - A____241 is displayed, DOM Id: A____241, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - A____241 is displayed, DOM Id: A____241, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - A____241 is displayed, DOM Id: A____241, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - A____241 is displayed, DOM Id: A____241, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - I__ticontrols__230 is displayed, DOM Id: I__ticontrols__230, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__230 is displayed, DOM Id: I__ticontrols__230, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__230 is displayed, DOM Id: I__ticontrols__230, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__230 is displayed, DOM Id: I__ticontrols__230, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__230 is displayed, DOM Id: I__ticontrols__230, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__230 is displayed, DOM Id: I__ticontrols__230, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__230 is displayed, DOM Id: I__ticontrols__230, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__252 is displayed, DOM Id: I__ticontrols__252, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__252 is displayed, DOM Id: I__ticontrols__252, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__252 is displayed, DOM Id: I__ticontrols__252, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__252 is displayed, DOM Id: I__ticontrols__252, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__252 is displayed, DOM Id: I__ticontrols__252, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__252 is displayed, DOM Id: I__ticontrols__252, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__ticontrols__252 is displayed, DOM Id: I__ticontrols__252, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__226 is displayed, DOM Id: I__tiheart__226, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__226 is displayed, DOM Id: I__tiheart__226, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__226 is displayed, DOM Id: I__tiheart__226, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__226 is displayed, DOM Id: I__tiheart__226, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__226 is displayed, DOM Id: I__tiheart__226, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__226 is displayed, DOM Id: I__tiheart__226, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__226 is displayed, DOM Id: I__tiheart__226, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__248 is displayed, DOM Id: I__tiheart__248, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__248 is displayed, DOM Id: I__tiheart__248, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__248 is displayed, DOM Id: I__tiheart__248, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__248 is displayed, DOM Id: I__tiheart__248, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__248 is displayed, DOM Id: I__tiheart__248, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__248 is displayed, DOM Id: I__tiheart__248, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tiheart__248 is displayed, DOM Id: I__tiheart__248, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__234 is displayed, DOM Id: I__tishopping__234, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__234 is displayed, DOM Id: I__tishopping__234, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__234 is displayed, DOM Id: I__tishopping__234, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__234 is displayed, DOM Id: I__tishopping__234, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__234 is displayed, DOM Id: I__tishopping__234, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__234 is displayed, DOM Id: I__tishopping__234, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__234 is displayed, DOM Id: I__tishopping__234, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__256 is displayed, DOM Id: I__tishopping__256, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__256 is displayed, DOM Id: I__tishopping__256, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__256 is displayed, DOM Id: I__tishopping__256, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__256 is displayed, DOM Id: I__tishopping__256, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__256 is displayed, DOM Id: I__tishopping__256, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__256 is displayed, DOM Id: I__tishopping__256, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Filtered Products - I__tishopping__256 is displayed, DOM Id: I__tishopping__256, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filtered Products - SPAN__newprice__221 is displayed, DOM Id: SPAN__newprice__221, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__221 is displayed, DOM Id: SPAN__newprice__221, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__221 is displayed, DOM Id: SPAN__newprice__221, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__221 is displayed, DOM Id: SPAN__newprice__221, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__221 is displayed, DOM Id: SPAN__newprice__221, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__221 is displayed, DOM Id: SPAN__newprice__221, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__221 is displayed, DOM Id: SPAN__newprice__221, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__244 is displayed, DOM Id: SPAN__newprice__244, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__244 is displayed, DOM Id: SPAN__newprice__244, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__244 is displayed, DOM Id: SPAN__newprice__244, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__244 is displayed, DOM Id: SPAN__newprice__244, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__244 is displayed, DOM Id: SPAN__newprice__244, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__244 is displayed, DOM Id: SPAN__newprice__244, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__newprice__244 is displayed, DOM Id: SPAN__newprice__244, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__oldprice__222 is displayed, DOM Id: SPAN__oldprice__222, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__oldprice__222 is displayed, DOM Id: SPAN__oldprice__222, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__oldprice__222 is displayed, DOM Id: SPAN__oldprice__222, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__oldprice__222 is displayed, DOM Id: SPAN__oldprice__222, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__oldprice__222 is displayed, DOM Id: SPAN__oldprice__222, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__oldprice__222 is displayed, DOM Id: SPAN__oldprice__222, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - SPAN__oldprice__222 is displayed, DOM Id: SPAN__oldprice__222, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - product_1 is displayed, DOM Id: product_1, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - product_1 is displayed, DOM Id: product_1, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filtered Products - product_1 is displayed, DOM Id: product_1, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - product_1 is displayed, DOM Id: product_1, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - product_1 is displayed, DOM Id: product_1, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - product_1 is displayed, DOM Id: product_1, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - product_1 is displayed, DOM Id: product_1, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - product_2 is displayed, DOM Id: product_2, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - product_2 is displayed, DOM Id: product_2, Browser: chrome, Viewport: 500x700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filtered Products - product_2 is displayed, DOM Id: product_2, Browser: chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - product_2 is displayed, DOM Id: product_2, Browser: edge, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - product_2 is displayed, DOM Id: product_2, Browser: edge, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filtered Products - product_2 is displayed, DOM Id: product_2, Browser: firefox, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filtered Products - product_2 is displayed, DOM Id: product_2, Browser: firefox, Viewport: 768x700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - accountIcon is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - applifashionLogo is displayed, DOM Id: IMG____9, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartIcon is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - cartNotificationIcon is displayed, DOM Id: STRONG____50, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - homeNavLink is displayed, DOM Id: A__showsubmen__23, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - menNavLink is displayed, DOM Id: A__showsubmen__25, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - runningNavLink is displayed, DOM Id: A__showsubmen__29, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - trainingNavLink is displayed, DOM Id: A__showsubmen__31, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - wishlistIcon is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header - womenNavLink is displayed, DOM Id: A__showsubmen__27, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - addToCartButton is displayed, DOM Id: A__btn__114, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - addToCartButton is displayed, DOM Id: A__btn__114, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - addToCartButton is displayed, DOM Id: A__btn__114, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - addToCartButton is displayed, DOM Id: A__btn__114, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - addToCartButton is displayed, DOM Id: A__btn__114, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - addToCartButton is displayed, DOM Id: A__btn__114, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - copyrightInfo is displayed, DOM Id: SPAN____175, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - copyrightInfo is displayed, DOM Id: SPAN____175, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - copyrightInfo is displayed, DOM Id: SPAN____175, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - copyrightInfo is displayed, DOM Id: SPAN____175, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - copyrightInfo is displayed, DOM Id: SPAN____175, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - copyrightInfo is displayed, DOM Id: SPAN____175, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - currencySelector is displayed, DOM Id: DIV__styledsele__164, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - currencySelector is displayed, DOM Id: DIV__styledsele__164, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - currencySelector is displayed, DOM Id: DIV__styledsele__164, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - currencySelector is displayed, DOM Id: DIV__styledsele__164, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - currencySelector is displayed, DOM Id: DIV__styledsele__164, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - currencySelector is displayed, DOM Id: DIV__styledsele__164, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - discount is displayed, DOM Id: discount, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - discount is displayed, DOM Id: discount, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - discount is displayed, DOM Id: discount, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - discount is displayed, DOM Id: discount, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - discount is displayed, DOM Id: discount, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - discount is displayed, DOM Id: discount, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAboutUsLink is displayed, DOM Id: A____123, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerAboutUsLink is displayed, DOM Id: A____123, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAboutUsLink is displayed, DOM Id: A____123, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAboutUsLink is displayed, DOM Id: A____123, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAboutUsLink is displayed, DOM Id: A____123, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAboutUsLink is displayed, DOM Id: A____123, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAddressIcon is displayed, DOM Id: I__tihome__139, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerAddressIcon is displayed, DOM Id: I__tihome__139, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAddressIcon is displayed, DOM Id: I__tihome__139, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAddressIcon is displayed, DOM Id: I__tihome__139, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAddressIcon is displayed, DOM Id: I__tihome__139, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerAddressIcon is displayed, DOM Id: I__tihome__139, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerBlogLink is displayed, DOM Id: A____131, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerBlogLink is displayed, DOM Id: A____131, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerBlogLink is displayed, DOM Id: A____131, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerBlogLink is displayed, DOM Id: A____131, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerBlogLink is displayed, DOM Id: A____131, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerBlogLink is displayed, DOM Id: A____131, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactAddress is displayed, DOM Id: LI____138, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerContactAddress is displayed, DOM Id: LI____138, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactAddress is displayed, DOM Id: LI____138, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactAddress is displayed, DOM Id: LI____138, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactAddress is displayed, DOM Id: LI____138, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactAddress is displayed, DOM Id: LI____138, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactEmail is displayed, DOM Id: A____143, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerContactEmail is displayed, DOM Id: A____143, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactEmail is displayed, DOM Id: A____143, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactEmail is displayed, DOM Id: A____143, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactEmail is displayed, DOM Id: A____143, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactEmail is displayed, DOM Id: A____143, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsHeader is displayed, DOM Id: H3____135, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsHeader is displayed, DOM Id: H3____135, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsHeader is displayed, DOM Id: H3____135, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsHeader is displayed, DOM Id: H3____135, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsHeader is displayed, DOM Id: H3____135, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsHeader is displayed, DOM Id: H3____135, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsLink is displayed, DOM Id: A____133, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerContactsLink is displayed, DOM Id: A____133, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsLink is displayed, DOM Id: A____133, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsLink is displayed, DOM Id: A____133, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsLink is displayed, DOM Id: A____133, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerContactsLink is displayed, DOM Id: A____133, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerEmailIcon is displayed, DOM Id: I__tiemail__142, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerEmailIcon is displayed, DOM Id: I__tiemail__142, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerEmailIcon is displayed, DOM Id: I__tiemail__142, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerEmailIcon is displayed, DOM Id: I__tiemail__142, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerEmailIcon is displayed, DOM Id: I__tiemail__142, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerEmailIcon is displayed, DOM Id: I__tiemail__142, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerFaqLink is displayed, DOM Id: A____125, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerFaqLink is displayed, DOM Id: A____125, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerFaqLink is displayed, DOM Id: A____125, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerFaqLink is displayed, DOM Id: A____125, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerFaqLink is displayed, DOM Id: A____125, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerFaqLink is displayed, DOM Id: A____125, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerHelpLink is displayed, DOM Id: A____127, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerHelpLink is displayed, DOM Id: A____127, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerHelpLink is displayed, DOM Id: A____127, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerHelpLink is displayed, DOM Id: A____127, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerHelpLink is displayed, DOM Id: A____127, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerHelpLink is displayed, DOM Id: A____127, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerKeepInTouchHeader is displayed, DOM Id: H3____145, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerKeepInTouchHeader is displayed, DOM Id: H3____145, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerKeepInTouchHeader is displayed, DOM Id: H3____145, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerKeepInTouchHeader is displayed, DOM Id: H3____145, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerKeepInTouchHeader is displayed, DOM Id: H3____145, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerKeepInTouchHeader is displayed, DOM Id: H3____145, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerMyAccountLink is displayed, DOM Id: A____129, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - footerMyAccountLink is displayed, DOM Id: A____129, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerMyAccountLink is displayed, DOM Id: A____129, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerMyAccountLink is displayed, DOM Id: A____129, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerMyAccountLink is displayed, DOM Id: A____129, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerMyAccountLink is displayed, DOM Id: A____129, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerQuickLinksHeader is displayed, DOM Id: H3____119, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerQuickLinksHeader is displayed, DOM Id: H3____119, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerQuickLinksHeader is displayed, DOM Id: H3____119, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerQuickLinksHeader is displayed, DOM Id: H3____119, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerQuickLinksHeader is displayed, DOM Id: H3____119, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - footerQuickLinksHeader is displayed, DOM Id: H3____119, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - languageSelector is displayed, DOM Id: DIV__styledsele__157, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - languageSelector is displayed, DOM Id: DIV__styledsele__157, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - languageSelector is displayed, DOM Id: DIV__styledsele__157, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - languageSelector is displayed, DOM Id: DIV__styledsele__157, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - languageSelector is displayed, DOM Id: DIV__styledsele__157, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - languageSelector is displayed, DOM Id: DIV__styledsele__157, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - newPrice is displayed, DOM Id: new_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - newPrice is displayed, DOM Id: new_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - newPrice is displayed, DOM Id: new_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - newPrice is displayed, DOM Id: new_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - newPrice is displayed, DOM Id: new_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - newPrice is displayed, DOM Id: new_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - numberOfReviews is displayed, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - numberOfReviews is displayed, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - numberOfReviews is displayed, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - numberOfReviews is displayed, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - numberOfReviews is displayed, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - numberOfReviews is displayed, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - oldPrice is displayed, DOM Id: old_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - oldPrice is displayed, DOM Id: old_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - oldPrice is displayed, DOM Id: old_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - oldPrice is displayed, DOM Id: old_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - oldPrice is displayed, DOM Id: old_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - oldPrice is displayed, DOM Id: old_price, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - privacyLink is displayed, DOM Id: A____173, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - privacyLink is displayed, DOM Id: A____173, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - privacyLink is displayed, DOM Id: A____173, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - privacyLink is displayed, DOM Id: A____173, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - privacyLink is displayed, DOM Id: A____173, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - privacyLink is displayed, DOM Id: A____173, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - productDescription is displayed, DOM Id: BR____85, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - productDescription is displayed, DOM Id: BR____85, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - productDescription is displayed, DOM Id: BR____85, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - productDescription is displayed, DOM Id: BR____85, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - productDescription is displayed, DOM Id: BR____85, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - productDescription is displayed, DOM Id: BR____85, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityField is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityField is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityField is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityField is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityField is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityField is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityLabel is displayed, DOM Id: STRONG____100, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityLabel is displayed, DOM Id: STRONG____100, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityLabel is displayed, DOM Id: STRONG____100, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityLabel is displayed, DOM Id: STRONG____100, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityLabel is displayed, DOM Id: STRONG____100, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - quantityLabel is displayed, DOM Id: STRONG____100, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - rating is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - rating is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - rating is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - rating is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - rating is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - rating is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar1 is displayed, DOM Id: I__iconstarvo__77, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar1 is displayed, DOM Id: I__iconstarvo__77, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar1 is displayed, DOM Id: I__iconstarvo__77, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar1 is displayed, DOM Id: I__iconstarvo__77, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar1 is displayed, DOM Id: I__iconstarvo__77, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar1 is displayed, DOM Id: I__iconstarvo__77, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar2 is displayed, DOM Id: I__iconstarvo__78, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar2 is displayed, DOM Id: I__iconstarvo__78, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar2 is displayed, DOM Id: I__iconstarvo__78, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar2 is displayed, DOM Id: I__iconstarvo__78, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar2 is displayed, DOM Id: I__iconstarvo__78, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar2 is displayed, DOM Id: I__iconstarvo__78, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar3 is displayed, DOM Id: I__iconstarvo__79, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar3 is displayed, DOM Id: I__iconstarvo__79, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar3 is displayed, DOM Id: I__iconstarvo__79, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar3 is displayed, DOM Id: I__iconstarvo__79, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar3 is displayed, DOM Id: I__iconstarvo__79, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar3 is displayed, DOM Id: I__iconstarvo__79, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar4 is displayed, DOM Id: I__iconstarvo__80, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar4 is displayed, DOM Id: I__iconstarvo__80, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar4 is displayed, DOM Id: I__iconstarvo__80, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar4 is displayed, DOM Id: I__iconstarvo__80, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar4 is displayed, DOM Id: I__iconstarvo__80, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar4 is displayed, DOM Id: I__iconstarvo__80, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar5 is displayed, DOM Id: I__iconstar__81, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar5 is displayed, DOM Id: I__iconstar__81, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar5 is displayed, DOM Id: I__iconstar__81, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar5 is displayed, DOM Id: I__iconstar__81, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar5 is displayed, DOM Id: I__iconstar__81, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - ratingStar5 is displayed, DOM Id: I__iconstar__81, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeImage is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeImage is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeImage is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeImage is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeImage is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeImage is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeName is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeName is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeName is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeName is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeName is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - shoeName is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sizeLabel is displayed, DOM Id: STRONG____90, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sizeLabel is displayed, DOM Id: STRONG____90, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sizeLabel is displayed, DOM Id: STRONG____90, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sizeLabel is displayed, DOM Id: STRONG____90, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sizeLabel is displayed, DOM Id: STRONG____90, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sizeLabel is displayed, DOM Id: STRONG____90, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sizeOptionExtraLarge is displayed, DOM Id: OPTION____97, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionExtraLarge is displayed, DOM Id: OPTION____97, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionExtraLarge is displayed, DOM Id: OPTION____97, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionExtraLarge is displayed, DOM Id: OPTION____97, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionExtraLarge is displayed, DOM Id: OPTION____97, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionExtraLarge is displayed, DOM Id: OPTION____97, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionLarge is displayed, DOM Id: OPTION____96, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionLarge is displayed, DOM Id: OPTION____96, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionLarge is displayed, DOM Id: OPTION____96, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionLarge is displayed, DOM Id: OPTION____96, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionLarge is displayed, DOM Id: OPTION____96, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionLarge is displayed, DOM Id: OPTION____96, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionMedium is displayed, DOM Id: OPTION____95, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionMedium is displayed, DOM Id: OPTION____95, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionMedium is displayed, DOM Id: OPTION____95, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionMedium is displayed, DOM Id: OPTION____95, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionMedium is displayed, DOM Id: OPTION____95, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionMedium is displayed, DOM Id: OPTION____95, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionSmall is displayed, DOM Id: OPTION____94, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionSmall is displayed, DOM Id: OPTION____94, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionSmall is displayed, DOM Id: OPTION____94, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionSmall is displayed, DOM Id: OPTION____94, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionSmall is displayed, DOM Id: OPTION____94, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeOptionSmall is displayed, DOM Id: OPTION____94, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeSelect is displayed, DOM Id: SELECTselect-one__wide__93, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeSelect is displayed, DOM Id: SELECTselect-one__wide__93, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeSelect is displayed, DOM Id: SELECTselect-one__wide__93, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeSelect is displayed, DOM Id: SELECTselect-one__wide__93, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeSelect is displayed, DOM Id: SELECTselect-one__wide__93, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sizeSelect is displayed, DOM Id: SELECTselect-one__wide__93, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - sku is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sku is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sku is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sku is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sku is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - sku is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - termsAndConditionsLink is displayed, DOM Id: A____171, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - termsAndConditionsLink is displayed, DOM Id: A____171, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - termsAndConditionsLink is displayed, DOM Id: A____171, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - termsAndConditionsLink is displayed, DOM Id: A____171, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - termsAndConditionsLink is displayed, DOM Id: A____171, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - termsAndConditionsLink is displayed, DOM Id: A____171, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - yourEmailField is displayed, DOM Id: email_newsletter, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Product Details - yourEmailField is displayed, DOM Id: email_newsletter, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - yourEmailField is displayed, DOM Id: email_newsletter, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - yourEmailField is displayed, DOM Id: email_newsletter, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - yourEmailField is displayed, DOM Id: email_newsletter, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details - yourEmailField is displayed, DOM Id: email_newsletter, Browser: chrome, Viewport: 1200x700, Device: Laptop, Status: Pass

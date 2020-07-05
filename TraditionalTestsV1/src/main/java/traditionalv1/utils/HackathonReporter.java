@@ -21,7 +21,7 @@ public class HackathonReporter {
       String device,
       boolean comparisonResult) {
     try (var writer =
-        new BufferedWriter(new FileWriter("Traditional-V1-TestResults_UNSORTED.txt", true))) {
+        new BufferedWriter(new FileWriter("../Traditional-V1-TestResults_UNSORTED.txt", true))) {
       writer.write(
           "Task: "
               + task
@@ -48,7 +48,7 @@ public class HackathonReporter {
 
   public void sortAlphabetically() {
     try {
-      FileReader fileReader = new FileReader("Traditional-V1-TestResults_UNSORTED.txt");
+      FileReader fileReader = new FileReader("../Traditional-V1-TestResults_UNSORTED.txt");
       BufferedReader bufferedReader = new BufferedReader(fileReader);
       String inputLine;
       List<String> lineList = new ArrayList<String>();
@@ -57,7 +57,7 @@ public class HackathonReporter {
       }
       fileReader.close();
       Collections.sort(lineList);
-      FileWriter fileWriter = new FileWriter("Traditional-V1-TestResults.txt");
+      FileWriter fileWriter = new FileWriter("../Traditional-V1-TestResults.txt");
       PrintWriter out = new PrintWriter(fileWriter);
       for (String outputLine : lineList) {
         out.println(outputLine);

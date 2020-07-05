@@ -3,7 +3,7 @@
 .idea
 **/build/
 !src/**/build/
-*.txt
+*_UNSORTED.txt
 
 # Ignore Gradle GUI config
 gradle-app.setting
