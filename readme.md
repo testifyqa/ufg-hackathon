@@ -31,7 +31,6 @@ To be able to run the test suites, you will need the following:
 
 ## Running the tests locally
 
-- Clone the repository
 - Open up a Terminal window and change directory in to the ufg-hackathon project root: ```cd path/to/ufg-hackathon```
 
 ### ModernTestsV1
