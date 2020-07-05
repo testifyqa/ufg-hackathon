@@ -20,17 +20,16 @@ To be able to run the test suites, you will need the following:
 
 ### Setting your Eyes API Key
 #### ModernTestsV1
-1. Open up the ModernTestsV1 folder/project
-2. Rename the 'config.properties.sample' file in src/main/resources directory to config.properties
-3. Input your eyes API key for the 'eyes.api.key' property
+1. Open up the `ModernTestsV1` folder/project
+2. Rename the `config.properties.sample` file in `src/main/resources` directory to `config.properties`
+3. Input your eyes API key for the `eyes.api.key` property
 
 #### ModernTestsV2
-1. Open up the ModernTestsV1 folder/project
-2. Rename the 'config.properties.sample' file in src/main/resources directory to config.properties
-3. Input your eyes API key for the 'eyes.api.key' property
+1. Open up the `ModernTestsV2` folder/project
+2. Rename the `config.properties.sample` file in `src/main/resources` directory to `config.properties`
+3. Input your eyes API key for the `eyes.api.key` property
 
 ## Running the tests locally
-
 - Open up a Terminal window and change directory in to the ufg-hackathon project root: ```cd path/to/ufg-hackathon```
 
 ### ModernTestsV1
@@ -46,6 +45,6 @@ To be able to run the test suites, you will need the following:
 - Run the tests: ```./gradlew :TraditionalTestsV2:test -Psuite```
 
 ## Running remotely
-To run the traditional tests remotely, you will need your own grid setup, then just edit the 'environment' property in the src/main/resources/config/general.properties file to 'remote'.
+To run the traditional tests remotely, you will need your own grid setup, then just edit the `environment` property in the `src/main/resources/config/general.properties` file to `remote`.
 
-Additionally, you can set the url and port properties of your remote grid in the src/main/resources/config/grid.properties file in the Traditional folders/projects 
+Additionally, you can set the url and port properties of your remote grid in the `src/main/resources/config/grid.properties` file in the Traditional folders/projects 
