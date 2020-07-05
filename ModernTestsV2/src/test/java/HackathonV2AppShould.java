@@ -20,22 +20,24 @@ public class HackathonV2AppShould {
     eyesManager = new EyesManager(driver, "UFG Hackathon");
     eyesManager.setBatchName("UFG Hackathon");
     hackathonV2Page = new HackathonV2Page(driver);
-    driver.get("https://demo.applitools.com/gridHackathonV2.html");
   }
 
   @Test
   public void display_elements_across_devices_correctly() {
+    driver.get("https://demo.applitools.com/gridHackathonV2.html");
     eyesManager.validateWindow("Task 1", "Cross-Device Elements Test");
   }
 
   @Test
-  public void return_black_shoes_when_filtering_for_black_shoes() {
+  public void display_black_shoes_when_filtering_for_black_shoes() {
+    driver.get("https://demo.applitools.com/gridHackathonV2.html");
     hackathonV2Page.filterByColorBlack();
     eyesManager.validateRegion("Task 2", "Filter Results", hackathonV2Page.getProductGrid());
   }
 
   @Test
   public void navigate_to_correct_details_page_when_product_is_selected() {
+    driver.get("https://demo.applitools.com/gridHackathonV2.html");
     hackathonV2Page.clickFirstProduct();
     eyesManager.validateWindow("Task 3", "Product Details test");
   }

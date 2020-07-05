@@ -46,7 +46,7 @@ public class HackathonV1Page {
   }
 
   private void selectBlackColorFilter() {
-    WebDriverWait wait = new WebDriverWait(driver, 5);
+    WebDriverWait wait = new WebDriverWait(driver, 10);
     wait.until(ExpectedConditions.visibilityOfElementLocated(getBlackColorFilter()));
     driver.findElement(getBlackColorFilter()).click();
   }

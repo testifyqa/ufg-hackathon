@@ -27,7 +27,7 @@ public class HackathonV1AppShould {
   }
 
   @Test
-  public void return_black_shoes_when_filtering_for_black_shoes() {
+  public void display_black_shoes_when_filtering_for_black_shoes() {
     hackathonV1Page.filterByColorBlack();
     eyesManager.validateRegion("Task 2", "Filter Results", hackathonV1Page.getProductGrid());
   }
